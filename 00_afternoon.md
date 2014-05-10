@@ -4,7 +4,7 @@ layout: page
 permalink: "afternoon.html"
 ---
 
-<article class="grid_12">
+<article class="grid_12 center-text">
 <p>Duncan & Christine's</p>
 <p>Afternoon Social Dances</p>
 <p>Ballroom and Latin Dancing</p>
