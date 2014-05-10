@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
+</head>
+<body {% if page.url == '/index.html' %}id="homePage"{% endif %}>
+	<div class="bg">
+		<header>
+			<div class="menu-row">
+				<div class="main">
+					<div class="container_12">
+						<div class="wrapper">
+							<div class="grid_12">
+								<nav class="wrapper">
+									<ul class="menu">
+		    {% assign sorted_pages = site.pages | sort:"name" %}
+                    {% for node in sorted_pages %}
+                      {% if page.url == node.url %}
+                        <li {% if forloop.last %}class="active"{% endif %}><a class="active" href="{{node.url}}" class="active">{{node.title}}</a></li>
+                      {% else %}
+                        <li {% if forloop.last %}class="active"{% endif %}><a href="{{node.url}}">{{node.title}}</a></li>
+                      {% endif %}
+                    {% endfor %}
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="main">
+				<div class="container_12">
+					<div class="wrapper">
+						<div class="grid_3">
+							<div class="dance-header">
+								
+									<a class="logo" href="index.html">Patters</a>
+								</h1>
+							</div>
+						</div>
+						<div class="grid_9">
+							<div class="dance-header">
+							<div class="patters-text">Social Ballroom and Latin Dancing with some Sequence</div>
+							
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		
+		<section id="content">
+			<div class="main">
+				<div class="container_12">
+					<div class="wrapper">
+            {{ content }}
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+  {% if page.aside %}
+	<aside>
+		<div class="main">
+			<div class="container_12">
+				<div class="wrapper">
+          {{ page.aside }}
+				</div>
+			</div>
+		</div>
+	</aside>
+  {% endif %}
+	
+	<footer>
+		<div class="main">
+			<div class="container_12">
+				<div class="wrapper">
+					<div class="grid_3">
+						<div class="footer-text">
+							<b><strong>Patters</strong> dancing</b>
+						</div>
+					</div>
+					<div class="grid_9">
+						<div class="footer-text">
+							<strong>Contact Pat and her team at <a href="mailto:pattersdance@gmail.com">pattersdance@gmail.com</a></strong>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
