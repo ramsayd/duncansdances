@@ -11,7 +11,7 @@ permalink: "afternoon.html"
 <p>with possibly a couple of Sequence dances</p>
 </article>
 
-<article class="grid_6">
+<article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
       <dt><strong>On Wednesdays, 2pm to 4pm</strong></dt>
@@ -25,7 +25,7 @@ permalink: "afternoon.html"
 </article>
 
 
-<article class="grid_6">
+<article class="grid_6 center-text padded-bottom">
   <dl>
     <dt><strong>PNL Centre at St Joseph’s  Main Hall,</strong></dt>
 <dt><strong>122 Ladbroke Road</strong></dt>
@@ -36,7 +36,7 @@ permalink: "afternoon.html"
   </dl>
 </article>
 
-<article class="grid_12">
+<article class="grid_12 center-text padded-bottom">
 <dl>
 <dt><strong>£4 per person</strong></dt>
  <dt>Drinks extra at the hall’s café</dt>
