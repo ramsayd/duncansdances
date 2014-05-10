@@ -1,7 +1,7 @@
 ---
-title: More Information
+title: Evening Dances
 layout: page
-permalink: "information.html"
+permalink: "evening.html"
 ---
 
 <ul>
