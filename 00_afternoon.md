@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Afternoon Dances
 layout: page
-permalink: "index.html"
+permalink: "afternoon.html"
 ---
 
-<article class="grid_3">
+<article class="grid_4">
   <dl>
     <dl>
       <dt>£6 per person</dt>
@@ -18,11 +18,11 @@ permalink: "index.html"
   </dl>
 </article>
 
-<article class="grid_6">
+<article class="grid_4">
   <img width="100%" src="images/dancefloor.jpg"/>
 </article>
 
-<article class="grid_3">
+<article class="grid_4">
   <dl>
     <dt><strong>A typical evening</strong></dt>
     <dt>8 to 9:30 - a mixture of Ballroom and Latin dances</dt>
