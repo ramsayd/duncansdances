@@ -1,4 +1,4 @@
-﻿---
+---
 title: Why Clear Beat
 layout: page
 permalink: "whyclearbeat.html"
