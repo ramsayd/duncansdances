@@ -27,7 +27,7 @@ permalink: "afternoon.html"
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
-    <dt><strong>PNL Centre at St Joseph’s  Main Hall,</strong></dt>
+    <dt><strong>PNL Centre at St Joseph’s,  Main Hall,</strong></dt>
 <dt><strong>122 Ladbroke Road,</strong></dt>
 <dt><strong>Redhill,</strong></dt>
 <dt><strong>RH1 1EF</strong></dt>
