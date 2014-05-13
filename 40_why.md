@@ -20,16 +20,9 @@ When we started dancing we danced at a variety of locations and it was very diff
 My Music
 </div>
 <p>
-At the last back-up there were nearly 17,000 tracks, including a lot of duplicates.
-</p><p>I have categorised the clarity of the beat from 1 to 5 regardless of whether I like the music or not. What gets put into each varies from one dance to another, for example for a Waltz; 
-</p><p>1. is it really a Waltz?
-</p><p>2. is a Waltz but the beat is so bad would never get up to dance to it.
-</p><p>Jumping to 5. it has a 1, 2, 3 but more as a, Omph cha cha so that you can really feel the emphasis on the 1 rather than just hearing it louder.
-</p><p>4. will have a clear 1,2,3 with a nice emphasis on the 1 or a really lovely 1 that carries you through the 2 and 3.
-</p><p>3. either has got a definite 1,2,3, but is plonky or leaves you guessing too much, but would be willing to dance to it.
-</p><p>I can’t hand on heard say that I would categorise something the same today as I did a few years back but if I find something that does not fit I just alter the code.
-</p><p>I have marked each as Vocal or Instrumental and have then picked the best of each so the most I will have of the same record, for the same dance,  is two, hence why so many duplicates, picking the best Cumparsita  from 48 was boring.
-</p><p>Those with a Beat Clarity of 4 or 5 I rated on a 1 to 5 basis, based on how much I liked them, I only play those that are rated 4 or 5. I have many that have a Beat Clarity of 4 but a Rating of 5 and vice versa, some that have a Beat Clarity of 5 only got rated a 3 or less, they are independent scores. The net result is that I have just under 3,000 tracks that I think have a good beat and I like so there can still be great variety. If I were to play 6 Cha Cha Chas a night, 1 night a week, I would not have to repeat one for over 15 months, similarly if I were to play 6 Cha Cha Chas rated 5, once a month, I would not have to repeat one for over 15 months.
-</p><p>For dances I don’t do and therefore shouldn’t judge, such as Argentine Tango and Salsa I am grateful to others who do dance them for helping me and rating them for me.
+At the last back-up I had over 13,000 dance tracks. 
+</p><p>I have rated them out of 15 (using a couple of criteria) and at the afternoon dances will only play those rated 14 or 15, there are over 600, with a playing time of 29 hours. If I were to run evening sessions I would include 12s & 13s for diversity, there are just under 3,000 rated 12 to 15 with a playing time of around 140 hours. 
+</p><p>For dances I don’t do and therefore shouldn’t judge, such as Argentine Tango and Salsa I am grateful to others who do dance them for helping by rating them for me.
+</p><p>If I were to play 6 Cha Cha Chas rated 14 or 15, once a month, I would not have to repeat one for over 14 months. If I were to play 6 Cha Cha Chas once a week, rated 12 to 15 I would not have to repeat one for over 15 months.
 </p><p>A lot depends on taste, the sound system and the acoustics of hall but I hope that you will enjoy the music and have found this bit of background information interesting.
 </p></article>
