@@ -1,7 +1,7 @@
 ---
 title: Afternoon Dances
 layout: page
-permalink: "afternoon.html"
+permalink: "index.html"
 ---
 
 <article class="grid_12 center-text">
