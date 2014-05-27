@@ -6,7 +6,7 @@ permalink: "index.html"
 
 <article class="grid_12 center-text">
 <p>Duncan & Christine's</p>
-<p><strong>Afternoon Social Dances</strong></p>
+<h2><strong>Afternoon Social Dances</strong></h2>
 <p><strong>Ballroom and Latin Dancing</strong></p>
 <p>with possibly a couple of Sequence dances</p>
 </article>
