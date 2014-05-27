@@ -4,9 +4,10 @@ mark,rp,rt,ruby,summary,time
 }
 
 html
-/*<head>
- <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Alex+brush">
- </head>*/
+{
+<head>
+ <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=tangerine">
+ </head>
 {
   width:100%;
 }
@@ -199,7 +200,7 @@ h1
 
 h2
 {
-  font-family:'Alex brush', arial;
+  font-family:'tangerine', arial;
   font-size:72px;
   line-height:1.219em;
   color:#151515;
