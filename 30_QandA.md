@@ -10,13 +10,13 @@ permalink: "Q&A.html"
 <article class="grid_12 Visible">
 <h3><strong>Below are the questions we have been asked so far about our afternoon dances</h3>
 <h5><strong>Will there be Bus Stop & Queue Dances?</strong></h5>
-<h5>No</h5>
+<h6>No</h6>
 <h5><strong>Will there be Sequence Dancing?</strong></h5>
-<h5>It depends on who comes, if nobody wants sequence there will not be any. If some do there may be 2 or 3 and I hope that those who don’t do sequence will not mind having a rest for 6 or 9 minutes out of the 2 hours. If you really only want Sequence Dancing it is not for you.</h5>
+<h6>It depends on who comes, if nobody wants sequence there will not be any. If some do there may be 2 or 3 and I hope that those who don’t do sequence will not mind having a rest for 6 or 9 minutes out of the 2 hours. If you really only want Sequence Dancing it is not for you.</h6>
 <h5><strong>Will there be Snowballs?</strong></h5>
-<h5>No</h5>
+<h6>No</h6>
 <h5><strong>Is it a Tea Dance?</strong></h5>
-<h5>That depends on what you expect from a Tea dance. It is a dance in the afternoon and Tea is available. We purposefully called it a Social Dance rather than a Tea Dance so that people did not pre-judge it as something that it may or may not be.</h5>
+<h6>That depends on what you expect from a Tea dance. It is a dance in the afternoon and Tea is available. We purposefully called it a Social Dance rather than a Tea Dance so that people did not pre-judge it as something that it may or may not be.</h6>
 <h5><strong>Is Tea and Coffee included?</strong></h5>
 <h5>Tea, Coffee, cakes or biscuits are not included, and the price hopefully reflects this. They are available at the Hall’s café, which is reasonably priced and of good quality. Please do not brink you own drinks, other than water, it is a condition of our hire of the hall.</h5>	
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
