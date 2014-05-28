@@ -22,11 +22,11 @@ permalink: "Q&A.html"
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
 <h6>Dancers of any standard are welcome, as long as you like Ballroom and Latin dancing it does not matter if you are complete beginners or at Gold or beyond. The hall is large (225 M2 ) and I am sure we can accommodate everybody who wants to come. </h6>
 <h5><strong>Where is the hall?</strong></h5>
-<h6>It is at 122 Ladbroke Road, Redhill, RH1 1LF  <a href="http://streetmap.co.uk/grid/528299_151205/"target="_blank">Show Map</a></h6>
+<h6>It is at 122 Ladbroke Road, Redhill, RH1 1LF  <a href="http://streetmap.co.uk/grid/528299_151205/" target="_blank" >Show Map</a></h6>
 <h5><strong>Is there parking?</strong></h5>
 <h6>There is ample parking, they have just changed the one way flow, you now enter to the left of the church and hall</h6>
 <h5><strong>How close do the buses stop?</strong></h5>
 <h6>It is less than half a mile from the Bus station but the 424 stops within 100 yards and several stop nearby on the A23 near Sutton and East Surrey Water Company.</h6>
 <h5><strong>Can you tell me a bit more about the hall?</strong></h5>
-<h6>It was built in 2013 and is a large hall with a sprung floor, see Photos, or for more information see the church's website.  <a href="http://www.thenativityofthelord.org.uk/churches/stjosephs/our_community/pnl_centre_stj_room_hire.html" target="_blank">Church Website</a></h6> 
+<h6>It was built in 2013 and is a large hall with a sprung floor, see Photos, or for more information see the church's website.  <a href="http://www.thenativityofthelord.org.uk/churches/stjosephs/our_community/pnl_centre_stj_room_hire.html" target="_blank" >Church Website</a></h6> 
 </article>
