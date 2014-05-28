@@ -1,5 +1,5 @@
 ---
-title: Q & As
+title: Photos
 layout: page
 permalink: "Photos.html"
 ---
