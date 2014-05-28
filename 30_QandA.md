@@ -28,5 +28,5 @@ permalink: "Q&A.html"
 <h5><strong>How close do the buses stop?</strong></h5>
 <h6>It is less than half a mile from the Bus station but the 424 stops within 100 yards and several stop nearby on the A23 near Sutton and East Surrey Water Company.</h6>
 <h5><strong>Can you tell me a bit more about the hall?</strong></h5>
-<h6>It was built in 2013 and is a large hall with a sprung floor, see Photos, or for more information see the church's website.  <a href="http://www.thenativityofthelord.org.uk/churches/stjosephs/our_community/pnl_centre_stj_room_hire.html/target="_blank">"/>Church Website</a></h6> 
+<h6>It was built in 2013 and is a large hall with a sprung floor, see Photos, or for more information see the church's website.  <a href="http://www.thenativityofthelord.org.uk/churches/stjosephs/our_community/pnl_centre_stj_room_hire.html/"target="_blank">/>Church Website</a></h6> 
 </article>
