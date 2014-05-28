@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+ <html>
+
+<head>
+ <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Alex+brush">
+ 
+<style>
+ body {background-color:white;}
+h1 {background-color:grey;font-family:harrington, arial;font-size:40px;text-align:center;}
+h2 {background-color:white;font-family:'Alex brush', arial;font-size:30px;text-align:center;}
+ p {background-color:yellow;font-family:arial;color:red;font-size:20px;}
+ </style>
+ </head> 
+
+<body>
+ <h1 >This is a heading, Clear Beat Ballroom, in Harrington</h1>
+ <p >This is a paragraph.</p>
+ <h2 >Nice to see you, Clear Beat Ballroom, in Alex Brush</h2>
+ <p >Goodbye.</p>
+
+<body>
+
+
+
+ </body>
+ </html> 
