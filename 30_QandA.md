@@ -20,7 +20,7 @@ permalink: "Q&A.html"
 <h5><strong>Is Tea and Coffee included?</strong></h5>
 <h6>Tea, Coffee, cakes or biscuits are not included, and the price hopefully reflects this. They are available at the Hall’s café, which is reasonably priced and of good quality. Please do not brink you own drinks, other than water, it is a condition of our hire of the hall.</h6>	
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
-<h6>Dancers of any standard are welcome, as long as you like Ballroom and Latin dancing it does not matter if you are complete beginners or at Gold or beyond. The hall is large 225 M<sup>2</sup> and I am sure we can accommodate everybody who wants to come. </h6>
+<h6>Dancers of any standard are welcome, as long as you like Ballroom and Latin dancing it does not matter if you are complete beginners or at Gold or beyond. The hall is large 225 M<sub>2</sub> and I am sure we can accommodate everybody who wants to come. </h6>
 <h5><strong>Where is the hall?</strong></h5>
 <h6>It is at 122 Ladbroke Road, Redhill, RH1 1LF  <a href="http://streetmap.co.uk/grid/528299_151205/" target="_blank" >Show Map</a></h6>
 <h5><strong>Is there parking?</strong></h5>
