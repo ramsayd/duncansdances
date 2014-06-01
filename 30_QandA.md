@@ -7,7 +7,7 @@ permalink: "Q&A.html"
 
 
 <article class="grid_12 Visible">
-<h3 class="small-padded-bottom  center-text"><strong>Below are the questions we have been asked about our afternoon dances so far </strong></h3>
+<h3 class="small-padded-bottom  center-text">Below are the questions we have been asked about our afternoon dances so far</h3>
 <h5><strong>Will there be Bus Stop & Queue Dances?</strong></h5>
 <h6>No</h6>
 <h5><strong>Will there be Sequence Dancing?</strong></h5>
