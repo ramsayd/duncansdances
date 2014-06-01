@@ -163,7 +163,7 @@ h1
 {
   position:relative;
   padding:3px 0 0 2px;
-  height:74px;
+  height:192px;
 }
 
 #page1 h1
@@ -175,7 +175,7 @@ h1
 {
   display:block;
   width:266px;
-  height:74px;
+  height:192px;
   text-indent:-5000px;
   background:url(../images/LEFT_DANCE4-300.jpg) 0 0 no-repeat;
 }
@@ -184,7 +184,7 @@ h1
 {
   display:block;
   width:266px;
-  height:74px;
+  height:192px;
   text-indent:-5000px;
   background:url(../images/RIGHT_DANCE4-300.jpg) 0 0 no-repeat;
 }
