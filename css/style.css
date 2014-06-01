@@ -339,6 +339,11 @@ a:hover,.menu li a,.list-1 li a,.list-2 li a,.link,.button,.logo,.footer-text a
   padding-bottom: 1em
 }
 
+.small-padded-bottom
+{
+  padding-bottom: 0.5em
+}
+
 .center-text 
 {
   text-align: center;
