@@ -5,10 +5,10 @@ permalink: "index.html"
 ---
 
 <article class="grid_12 center-text">
-<p>Duncan & Christine's</p>
-<h2><strong>Afternoon Social Dances</strong></h2>
-<p><strong>Ballroom and Latin Dancing</strong></p>
-<p>with possibly a couple of Sequence dances</p>
+<h2>Duncan & Christine's</h2>
+<h2>Afternoon Social Dances</h2>
+/*<p><strong>Ballroom and Latin Dancing</strong></p>*/
+/*<p>with possibly a couple of Sequence dances</p>*/
 </article>
 
 <article class="grid_6 center-text padded-bottom">
