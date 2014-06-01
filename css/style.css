@@ -171,13 +171,22 @@ h1
   padding:31px 0 0 49px;
 }
 
-.logo
+.left-logo
 {
   display:block;
   width:266px;
   height:74px;
   text-indent:-5000px;
-  background:url(../images/logo.png) 0 0 no-repeat;
+  background:url(../images/left-dance2.jpeg) 0 0 no-repeat;
+}
+
+.right-logo
+{
+  display:block;
+  width:266px;
+  height:74px;
+  text-indent:-5000px;
+  background:url(../images/right-dance2.jpeg) 0 0 no-repeat;
 }
 
 .clear-beat-text
