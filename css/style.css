@@ -175,7 +175,7 @@ h1
   width:225px;
   height:144px;
   text-indent:-5000px;
-  border="0";
+  border:none;
   background:url(../images/left.png) 0 0 no-repeat;
 }
 
