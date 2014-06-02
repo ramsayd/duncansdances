@@ -16,7 +16,7 @@ permalink: "index.html"
 <dt><strong>18th June 2014</strong></dt>
 <dt><strong>16th July 2014</strong></dt>
 <dt><strong>20th August 2014</strong></dt>
-<dt>And hopfully, with support, continuing on the 3rd Wednesday of each month</dt>
+<dt>And hopefully, with support, continuing on the 3rd Wednesday of each month</dt>
 
     </dl>
   </dl>
