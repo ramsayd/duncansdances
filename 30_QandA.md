@@ -23,7 +23,7 @@ permalink: "Q&A.html"
 <h5><strong>Where is the hall?</strong></h5>
 <h6>It is at 122 Ladbroke Road, Redhill, RH1 1LF  <a href="http://streetmap.co.uk/grid/528299_151205/" target="_blank" >Show Map</a></h6>
 <h5><strong>Is there parking?</strong></h5>
-<h6>There is ample parking, they have just changed the one way flow, you now enter to the left of the church and hall</h6>
+<h6>There is ample parking, you enter to the left of the church and hall and you come to the main parking. The footpath to the entrance to the hall and cafe is from here, betwen the disabled parking. There is also additional parking at the rear of the hall</h6>
 <h5><strong>How close do the buses stop?</strong></h5>
 <h6>It is less than half a mile from the Bus station but the 424 stops within 100 yards and several stop nearby on the A23 near Sutton and East Surrey Water Company.</h6>
 <h5><strong>Can you tell me a bit more about the hall?</strong></h5>
