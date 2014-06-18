@@ -12,7 +12,8 @@ permalink: "index.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>On the 3rd Wednesday o the Month, 2pm to 4pm</strong></dt>
+      <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
+    <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
 <dt><strong>16th July 2014</strong></dt>
 <dt><strong>20th August 2014</strong></dt>
