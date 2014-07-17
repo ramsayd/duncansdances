@@ -17,6 +17,7 @@ permalink: "index.html"
 <dt><strong>Next dances:</strong></dt>
 <dt><strong>20th August 2014</strong></dt>
 <dt><strong>17th September 2014</strong></dt>
+<dt><strong>15th October 2014</strong></dt>
 
     </dl>
   </dl>
