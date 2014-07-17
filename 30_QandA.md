@@ -11,7 +11,7 @@ permalink: "Q&A.html"
 <h5><strong>Will there be Bus Stop & Queue Dances?</strong></h5>
 <h6>No</h6>
 <h5><strong>Will there be Sequence Dancing?</strong></h5>
-<h6>It depends on who comes, if nobody wants sequence there will not be any. If some do there may be 2 or 3 and I hope that those who don’t do sequence will not mind having a rest for 6 or 9 minutes out of the 2 hours. If you really only want Sequence Dancing it is not for you.</h6>
+<h6>So far we have not played any Sequence but it does depend on who comes, if nobody wants sequence there will not be any. If some do there may be a couple and I hope that those who don’t do sequence will not mind having a rest for 6  minutes out of the 2 hours. If you really only want Sequence Dancing it is not for you.</h6>
 <h5><strong>Will there be Snowballs?</strong></h5>
 <h6>No</h6>
 <h5><strong>Is it a Tea Dance?</strong></h5>
