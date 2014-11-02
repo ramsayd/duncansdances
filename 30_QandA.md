@@ -17,7 +17,7 @@ permalink: "Q&A.html"
 <h5><strong>Is it a Tea Dance?</strong></h5>
 <h6>That depends on what you expect from a Tea dance. It is a dance in the afternoon and Tea is available. We purposefully called it a Social Dance rather than a Tea Dance so that people did not pre-judge it as something that it may or may not be.</h6>
 <h5><strong>Is Tea and Coffee included?</strong></h5>
-<h6>No, we tried to keep the price low and those that want Tea or Coffee can buy it for 50p. There will be free water and squash. You can bring your own drinks and nibbles.</h6>	
+<h6>No, we tried to keep the entrane price low and those that want Tea or Coffee can buy it for 50p. There will be free water and squash. You can bring your own drinks and nibbles.</h6>	
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
 <h6>Dancers of any standard are welcome, as long as you like Ballroom and Latin dancing it does not matter if you are complete beginners or at Gold or beyond. The hall is large 225 M &sup2; and I am sure we can accommodate everybody who wants to come. </h6>
 <h5><strong>Where is the hall?</strong></h5>
