@@ -39,8 +39,7 @@ permalink: "index.html"
 <article class="grid_12 center-text padded-bottom">
 <dl>
 <dt><strong>£4 per person</strong></dt>
- <dt>Drinks extra at the hall’s café</dt>
-<dt>(Tea 70p, coffee £1)</dt>
-<dt><strong>Please do not bring your own drinks</strong></dt>  
+ <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
+
 
 </article>
