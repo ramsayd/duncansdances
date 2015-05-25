@@ -36,7 +36,7 @@ Review of the first year
 Why is the website called Clear Beat?
 </div>
 <p>
-When we strtaed dancing we liked a clear beat, when we started to run a dance and set up the website I called it; clear beat
-</p><p>You will see from the left hand side that about half of our music is vocals, but generally not ones where the singers voice drowns out the music.
+When we strtaed dancing we liked a clear beat, when we started to run a dance and set up the website I called it; clear beat.
+</p><p>You will see from the the review of the first year that just over half of our music is vocals, but generally not ones where the singer's voice drowns out the music.
 </p></article>
 
