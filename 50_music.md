@@ -19,14 +19,14 @@ Review of the first year
 <br/>Jive			23
 <br/>Modern Jive/Le Roc	26
 <br/>Paso Dobles		11
-</p><p>Quicksteps		71
-</p><p>Rumbas			69	
-</p><p>Sambas			19
-</p><p>Sequence			0
-</p><p>Slow Foxtrots		72
-</p><p>Tangoes			43
-</p><p>Viennese Waltzes		9
-</p><p>Waltzes			78
+<br/>Quicksteps		71
+<br/>Rumbas			69	
+<br/>Sambas			19
+<br/>Sequence			0
+<br/>Slow Foxtrots		72
+<br/>Tangoes			43
+<br/>Viennese Waltzes		9
+<br/>Waltzes			78
 </p><p>We now use the hall’s sound system, the acoustics of the hall are good and we hope that you will enjoy the music as much as we do.
 </p>
 </article>
