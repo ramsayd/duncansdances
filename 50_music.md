@@ -15,10 +15,10 @@ Review of the first year
 </p><p>No track has been repeated in the year, other than a Paso Doble by request, and is unlikely to be until month 15 when our good vocal Tangos and Waltzes will have been exhausted but for most it will be month 18 before we play a track for a second time.
 </p><p>What we have played;
 </p><p>Argentine Tango		0
-</p><p>Cha Cha Cha		68
-</p><p>Jive			23
-</p><p>Modern Jive/Le Roc	26
-</p><p>Paso Dobles		11
+<br/>Cha Cha Cha		68
+<br/>Jive			23
+<br/>Modern Jive/Le Roc	26
+<br/>Paso Dobles		11
 </p><p>Quicksteps		71
 </p><p>Rumbas			69	
 </p><p>Sambas			19
