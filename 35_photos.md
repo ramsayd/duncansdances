@@ -7,7 +7,7 @@ permalink: "Photos.html"
 
 <article class="grid_12 Visible center-text">
 <h3>Photograph of the Hall</h3>
-<img width="100%" src="images/HALL.jpg" class="padded-bottom"/>
+<img src="images/HALL.jpg" class="padded-bottom"/>
 </article>
 
 
