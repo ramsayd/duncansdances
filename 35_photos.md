@@ -9,11 +9,11 @@ permalink: "Photos.html"
 <h3>The Hall</h3>
 <img src="images/HALL.jpg" class="padded-bottom"/>
 <h3>D an Ce's Dances</h3>
-<img src="images/lights_flashing.gif" class="padded-bottom"/>
+<img src="images/Lights_flashing.gif" class="padded-bottom"/>
 <h3>Refreshments</h3>
-<img src="images/D and Cs 004.jpg" class="padded-bottom"/>
+<img src="images/D_and Cs_004.jpg" class="padded-bottom"/>
 <h3></h3>
-<img src="images/2015 May 0111.jpg" class="padded-bottom"/>
+<img src="images/2015_May_0111.jpg" class="padded-bottom"/>
 </article>
 
 
