@@ -12,7 +12,7 @@ permalink: "Photos.html"
 <img src="images/D-&-C3-002_f1.gif" class="padded-bottom"/>
 <h3>Refreshments</h3>
 <img src="images/D and Cs 004.jpg" class="padded-bottom"/>
-<h3>Photograph of the Hall</h3>
+<h3></h3>
 <img src="images/2015 May 0111.jpg" class="padded-bottom"/>
 </article>
 
