@@ -9,7 +9,7 @@ permalink: "Photos.html"
 <h3>The Hall</h3>
 <img src="images/HALL.jpg" class="padded-bottom"/>
 <h3>D an Ce's Dances</h3>
-<img src="images/D-&-C3-002_f1.gif" class="padded-bottom"/>
+<img src="images/lights_flashing.gif" class="padded-bottom"/>
 <h3>Refreshments</h3>
 <img src="images/D and Cs 004.jpg" class="padded-bottom"/>
 <h3></h3>
