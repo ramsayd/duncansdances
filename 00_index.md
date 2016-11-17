@@ -15,8 +15,8 @@ permalink: "index.html"
       <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
-<dt><strong>16th November</strong></dt>
 <dt><strong>21st December</strong></dt>
+<dt><strong>18th January</strong></dt>
 
     </dl>
   </dl>
@@ -32,7 +32,6 @@ permalink: "index.html"
 <dt>0.4 miles from the centre of Redhill, near East Surrey Water,</dt>
 <dt>free parking</dt>
 <dt>It is a magnificent, new, large hall with a sprung floor</dt>
-</dt>
   </dl>
 </article>
 
@@ -40,6 +39,6 @@ permalink: "index.html"
 <dl>
 <dt><strong>£4 per person</strong></dt>
  <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
-
+</dl>
 
 </article>
