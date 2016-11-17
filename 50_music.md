@@ -10,7 +10,7 @@ permalink: "The_Music.html"
 About the Music
 </div>
 <p>
-Review of the lst year
+Review of the last year
 </p><p>We have played nearly 500 different tracks of which just over half were vocals and just under half were instrumentals
 </p><p>No track has been repeated in the year, other than those by request, generally it is over 18 months before we play a track again.
 </p><p>What we have played;
@@ -37,7 +37,7 @@ Review of the lst year
 Why is the website called Clear Beat?
 </div>
 <p>
-When we startaed dancing we liked a clear beat, when we started to run a dance and set up the website I called it; Clearbeat.
-</p><p>From the review of the music just over half of our music is vocals, but generally not ones where the singer's voice drowns out the music.
+When we startaed dancing we liked a clear beat, when we started to run a dance and set up the website we called it; Clearbeat.
+</p><p>From the review of the music you will see that just over half of our music is vocals, but not ones where the singer's voice drowns out the music.
 </p></article>
 
