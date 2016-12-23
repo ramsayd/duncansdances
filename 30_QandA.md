@@ -17,7 +17,7 @@ permalink: "Q&A.html"
 <h5><strong>Is it a Tea Dance?</strong></h5>
 <h6>That depends on what you expect from a Tea dance. It is a dance in the afternoon and Tea is available. We purposefully called it a Social Dance rather than a Tea Dance so that people did not pre-judge it as something that it may or may not be.</h6>
 <h5><strong>Do I need a partner?</strong></h5>
-<h6>Whilst it is open to anybody, realistically, since after 1 year we have once had one unaccompanied man and have had a couple of ladies without partners you do need to have a partner or come as part of a group.</h6>
+<h6>It is open to anybody and whilst originally only couples attended recently we have had some people without a dance partner, luckily both sides at the same, although we can’t promise that there will be someone to dance with if you come on your own, give it a try and boost the number of singles to encourage others to come.</h6>
 <h5><strong>Is Tea and Coffee included?</strong></h5>
 <h6>No, we tried to keep the entrane price low and those that want Tea or Coffee can buy it for 50p. There will be free water and squash. You can bring your own drinks and nibbles.</h6>	
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
