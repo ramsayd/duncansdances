@@ -12,7 +12,7 @@ About the Music
 <p>
 Review of the last year
 </p><p>We played nearly 500 different tracks of which just over half were vocals and just under half were instrumentals
-</p><p>No track has been repeated in the year, other than those played at peoples request, we play our favourites ones from our collection of over 17,000 tracks.
+</p><p>No track has been repeated in the year, other than those played at peoples' request, we play our favourites ones from our collection of over 17,000 tracks.
 </p><p>What we have played;
 </p><p>Argentine Tango		0
 <br/>Cha Cha Cha		68
