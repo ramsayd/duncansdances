@@ -30,7 +30,7 @@ permalink: "index.html"
 <dt><strong>Redhill,</strong></dt>
 <dt><strong>RH1 1LF</strong></dt>
 <dt>0.4 miles from the centre of Redhill,</dt>
-<dt>near Sutton & East Surrey Water,</dt>
+<dt>near SES (formerly Sutton & East Surrey Water),</dt>
 <dt>free parking</dt>
 <dt>It is a magnificent, new, large hall with a sprung floor</dt>
   </dl>
