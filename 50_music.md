@@ -15,18 +15,16 @@ Review of the last year
 </p><p>No track has been repeated in the year, other than those played at peoples' request, we play our favourites ones from our collection of over 17,000 tracks.
 </p><p>What we have played;
 </p><p>Argentine Tango		0
-<br/>Cha Cha Cha		68
-<br/>Charleston   1
-<br/>Jive			23
-<br/>Modern Jive/Le Roc	26
-<br/>Paso doble    0
+<br/>Cha Cha Cha		72
+<br/>Jive			24
+<br/>Modern Jive/Le Roc	24
 <br/>Quicksteps		71
-<br/>Rumbas			69	
-<br/>Sambas			19
+<br/>Rumbas			73	
+<br/>Sambas			24
 <br/>Sequence			0
 <br/>Slow Foxtrots		72
-<br/>Tangoes			43
-<br/>Viennese Waltzes		9
+<br/>Tangoes			37
+<br/>Viennese Waltzes		12
 <br/>Waltzes			78
 </p><p>The acoustics of the hall are good and we hope that you will enjoy the music as much as we do.
 </p>
