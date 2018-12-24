@@ -17,7 +17,7 @@ permalink: "Q&A.html"
 <h5><strong>Is it a Tea Dance?</strong></h5>
 <h6>That depends on what you expect from a Tea dance. It is a dance in the afternoon and Tea is available. We purposefully called it a Social Dance rather than a Tea Dance so that people did not pre-judge it as something that it may or may not be.</h6>
 <h5><strong>Do I need a partner?</strong></h5>
-<h6>It is open to anybody and whilst originally only couples attended recently we have had some people without a dance partner, luckily both sides at the same, although we can’t promise that there will be someone to dance with if you come on your own, give it a try and boost the number of singles to encourage others to come.</h6>
+<h6>Although it is open to anybody in reality only those with partners or a group attended. </h6>
 <h5><strong>Is Tea and Coffee included?</strong></h5>
 <h6>No, we tried to keep the entrane price low and those that want Tea or Coffee can buy it for 50p. There will be free water and squash. You can bring your own drinks and nibbles.</h6>	
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
@@ -27,7 +27,7 @@ permalink: "Q&A.html"
 <h5><strong>Is there parking?</strong></h5>
 <h6>There is ample parking, you enter to the left of the church and hall and you come to the main parking. The footpath to the entrance to the hall and cafe is from here, betwen the disabled parking. There is also additional parking at the rear of the hall</h6>
 <h5><strong>How close do the buses stop?</strong></h5>
-<h6>It is less than half a mile from the Bus station but the 424 stops within 100 yards and several stop nearby on the A23 near Sutton and East Surrey Water Company.</h6>
+<h6>It is less than half a mile from the Bus station but the 424 stops within 100 yards and several stop nearby on the A23 near SESW.</h6>
 <h5><strong>Can you tell me a bit more about the hall?</strong></h5>
 <h6>It was built in 2013 and is a large hall with a sprung floor, see Photos, or for more information see the church's website.  <a href="http://www.thenativityofthelord.org.uk/churches/stjosephs/our_community/pnl_centre_stj_room_hire.html" target="_blank" >Church Website</a></h6> 
 </article>
