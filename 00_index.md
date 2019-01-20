@@ -15,8 +15,8 @@ permalink: "index.html"
       <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
-<dt><strong>16th January</strong></dt>
 <dt><strong>20th February</strong></dt>
+<dt><strong>20th March</strong></dt>
 
     </dl>
   </dl>
@@ -30,7 +30,7 @@ permalink: "index.html"
 <dt><strong>Redhill,</strong></dt>
 <dt><strong>RH1 1LF</strong></dt>
 <dt>under half a mile from the centre of Redhill,</dt>
-<dt>near SES (formerly Sutton & East Surrey Water),</dt>
+<dt>near SES Water,</dt>
 <dt>free parking</dt>
 <dt>It is a magnificent, new, large hall with a sprung floor</dt>
   </dl>
