@@ -26,7 +26,7 @@ permalink: "evenings.html"
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
-    <dt><strong>Coleman Redland Centre,</strong></dt>
+    <dt><strong>Colman Redland Centre,</strong></dt>
 <dt><strong>Croydon Road,</strong></dt>
 <dt><strong>Reigate,</strong></dt>
 <dt><strong>RH2 0NA</strong></dt>
