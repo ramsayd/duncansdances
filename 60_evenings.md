@@ -30,15 +30,15 @@ permalink: "evenings.html"
 <dt><strong>Croydon Road,</strong></dt>
 <dt><strong>Reigate,</strong></dt>
 <dt><strong>RH2 0NA</strong></dt>
-<dt>Next to the Fire Brigate Headquarters</dt>
-<dt>free parking</dt>
+<dt>(Next to the Surrey Fire Brigate Headquarters)</dt>
+<dt>Free parking</dt>
   </dl>
 </article>
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
 <dt><strong>£7 per person</strong></dt>
- <dt>Bring your own drinks,</dt>
+ <dt>Bring your own drinks</dt>
 </dl>
 
 </article>
