@@ -5,7 +5,7 @@ permalink: "evenings.html"
 
 
 <article class="grid_12 center-text">
-<h2>Duncan's EveningDances</h2>
+<h2>Duncan's Evening Dances</h2>
 <h2>Evening Social & Practice Dances</h2>
 </article>
 
@@ -16,7 +16,7 @@ permalink: "evenings.html"
     <dt><strong>9th March</strong></dt>   
 <dt><strong>10th August:</strong></dt>
 <dt><strong>and 12th October</strong></dt>
-<dt><strong>8:00 to 10:45y</strong></dt>
+<dt><strong>8:00 to 10:45</strong></dt>
    
 
     </dl>
