@@ -32,7 +32,7 @@ permalink: "evenings.html"
 <dt><strong>Reigate,</strong></dt>
 <dt><strong>RH2 0NA</strong></dt>
 <dt>(Next to the Surrey Fire Brigate Headquarters)</dt>
-<dt><strong>Free nsite parking</strong></dt>
+<dt><strong>Free onsite parking</strong></dt>
   </dl>
 </article>
 
