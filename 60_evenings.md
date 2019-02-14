@@ -3,20 +3,43 @@ layout: page
 permalink: "evenings.html"
 ---
 
-<article class="grid_6">
 
-<div class="information-header">
-Evening dances
-</div>
-<p>
-We will do some dancing
+<article class="grid_12 center-text">
+<h2>Duncan's EveningDances</h2>
+<h2>Evening Social & Practice Dances</h2>
 </article>
 
-<article class="grid_6">
-<div class="information-header">
-Why is the website called Clear Beat?
-</div>
-<p>
-When we startaed dancing we liked a clear beat, when we started to run a dance and set up the website we called it; Clearbeat.
-</p><p>From the review of the music you will see that just over half of our music is vocals, but they are not ones where the singer's voice drowns out the music. In addition none of them have such a heavy beat that they become monotonous to listen to.
-</p></article>
+<article class="grid_6 center-text padded-bottom">
+  <dl>
+    <dl>
+      <dt><strong>For Simply the Best Ballroom Dancing,</strong></dt>
+    <dt><strong>9th March</strong></dt>   
+<dt><strong>10th August:</strong></dt>
+<dt><strong>and 12th October</strong></dt>
+<dt><strong>8:00 to 10:45y</strong></dt>
+   
+
+    </dl>
+  </dl>
+</article>
+
+
+<article class="grid_6 center-text padded-bottom">
+  <dl>
+    <dt><strong>Coleman Redland Centre,</strong></dt>
+<dt><strong>Croydon Road,</strong></dt>
+<dt><strong>Reigate,</strong></dt>
+<dt><strong>RH2 0NA</strong></dt>
+<dt>Next to the Fire Brigate Headquarers</dt>
+<dt>free parking</dt>
+  </dl>
+</article>
+
+<article class="grid_12 center-text padded-bottom">
+<dl>
+<dt><strong>£7 per person</strong></dt>
+ <dt>Bring your own drinks,</dt>
+</dl>
+
+</article>
+
