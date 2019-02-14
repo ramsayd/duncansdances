@@ -13,8 +13,8 @@ permalink: "evenings.html"
   <dl>
     <dl>
       <dt><strong>For Simply the Best Ballroom Dancing,</strong></dt>
-    <dt><strong>9th March</strong></dt>   
-<dt><strong>10th August:</strong></dt>
+    <dt><strong>9th March,</strong></dt>   
+<dt><strong>10th August</strong></dt>
 <dt><strong>and 12th October</strong></dt>
 <dt><strong>8:00 to 10:45</strong></dt>
    
@@ -30,7 +30,7 @@ permalink: "evenings.html"
 <dt><strong>Croydon Road,</strong></dt>
 <dt><strong>Reigate,</strong></dt>
 <dt><strong>RH2 0NA</strong></dt>
-<dt>Next to the Fire Brigate Headquarers</dt>
+<dt>Next to the Fire Brigate Headquarters</dt>
 <dt>free parking</dt>
   </dl>
 </article>
