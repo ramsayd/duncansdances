@@ -19,7 +19,7 @@ permalink: "evenings.html"
 <dt><strong>8:00 to 10:45</strong></dt>
    
 
-    </dl>
+
   </dl>
 </article>
 
