@@ -5,27 +5,28 @@ permalink: "evenings.html"
 
 
 <article class="grid_12 center-text">
-<h2>Duncan's Evening Dances</h2>
-<h2>Evening Social & Practice Dances</h2>
+<h2>Duncan's Evening </h2>
+<h2>Social & Practice Dances</h2>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>For Simply the Best Ballroom Dancing,</strong></dt>
+      <dt><strong>Duncan will be playing the music for</strong></dt>
+      <dt><strong>Simply the Best Ballroom Dancing,</strong></dt>
     <dt><strong>9th March,</strong></dt>   
 <dt><strong>10th August</strong></dt>
 <dt><strong>and 12th October</strong></dt>
 <dt><strong>8:00 to 10:45</strong></dt>
    
-
-</dl>
+    </dl>
   </dl>
 </article>
 
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
+
     <dt><strong>Colman Redland Centre,</strong></dt>
 <dt><strong>Croydon Road,</strong></dt>
 <dt><strong>Reigate,</strong></dt>
