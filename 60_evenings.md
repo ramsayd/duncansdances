@@ -1,4 +1,5 @@
 ---
+title: Evenings
 layout: page
 permalink: "evenings.html"
 ---
