@@ -6,7 +6,6 @@ permalink: "evenings.html"
 
 
 <article class="grid_12 center-text">
-<h2>Duncan's Evening </h2>
 <h2>Social & Practice Dances</h2>
 </article>
 
