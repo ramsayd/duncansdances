@@ -15,8 +15,8 @@ permalink: "index.html"
       <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
-<dt><strong>20th February</strong></dt>
-<dt><strong>20th March</strong></dt>
+<dt><strong>17th April</strong></dt>
+<dt><strong>15th May</strong></dt>
 
     </dl>
   </dl>
