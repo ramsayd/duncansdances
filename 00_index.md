@@ -15,8 +15,8 @@ permalink: "index.html"
       <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
-<dt><strong>17th April</strong></dt>
-<dt><strong>15th May</strong></dt>
+<dt><strong>19th June</strong></dt>
+<dt><strong>17th July</strong></dt>
 
     </dl>
   </dl>
@@ -38,7 +38,7 @@ permalink: "index.html"
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
-<dt><strong>£4 per person</strong></dt>
+<dt><strong>£5 per person</strong></dt>
  <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
 </dl>
 
