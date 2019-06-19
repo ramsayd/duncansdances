@@ -18,7 +18,7 @@ permalink: "index.html"
 <dt><strong>17th Junly</strong></dt>
 <dt><strong>21st August</strong></dt>
 
-    </dl>
+    
   </dl>
 </article>
 
