@@ -16,7 +16,7 @@ permalink: "evenings.html"
       <dt><strong>Simply the Best Ballroom Dancing,</strong></dt>
       <dt><strong>8:00 to 10:45</strong></dt>
       <dt><strong>on</strong></dt>
-   <dt><strong>on 12th October</strong></dt>
+   <dt><strong>12th October</strong></dt>
 
    
     </dl>
