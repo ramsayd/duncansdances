@@ -16,7 +16,7 @@ permalink: "index.html"
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
 <dt><strong>15th January</strong></dt>
-<dt><strong>19th Februaryr</strong></dt>
+<dt><strong>19th February</strong></dt>
 
     </dl>
   </dl>
