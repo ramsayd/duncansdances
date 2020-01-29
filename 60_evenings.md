@@ -16,9 +16,9 @@ permalink: "evenings.html"
       <dt><strong>Simply the Best Ballroom Dancing,</strong></dt>
       <dt><strong>8:00 to 10:45</strong></dt>
       <dt><strong>on</strong></dt>
-   <dt><strong>8th March</strong></dt>
-      <dt><strong>14th June</strong></dt>
-      <dt><strong>8th November</strong></dt>
+   <dt><strong>14th March</strong></dt>
+      <dt><strong>13th June</strong></dt>
+      <dt><strong>14th November</strong></dt>
 
    
     </dl>
