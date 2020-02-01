@@ -40,7 +40,7 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
-<dt><strong>£7 per person </strong></dt>
+<dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
 </dl>
 
