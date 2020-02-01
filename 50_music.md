@@ -21,11 +21,11 @@ Review of last year's Afternoon Dances music
 <br/>Quicksteps		71
 <br/>Rumbas			73	
 <br/>Sambas			24
-<br/>Sequence			1
+<br/>Sequence			2
 <br/>Slow Foxtrots		72
 <br/>Tangoes			37
 <br/>Viennese Waltzes		11
-<br/>Waltzes			78
+<br/>Waltzes			75
 </p><p>The acoustics of the hall are good and we hope that you will enjoy the music as much as we do.
 </p>
 </article>
