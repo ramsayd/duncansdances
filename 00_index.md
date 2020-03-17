@@ -15,8 +15,8 @@ permalink: "index.html"
       <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
-<dt><strong>18th March (Still on as at 22:00 Monday 16th March)</strong></dt>
-<dt><strong>15th April</strong></dt>
+<dt><strong>18th March, Sorry Cancelled</strong></dt>
+<dt><strong>15th April, Sorry Cancelled</strong></dt>
 
     </dl>
   </dl>
