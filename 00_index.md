@@ -15,8 +15,8 @@ permalink: "index.html"
       <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
     <dt><strong>2pm to 4pm</strong></dt>   
 <dt><strong>Next dances:</strong></dt>
-<dt><strong>17th June, Sorry Cancelled</strong></dt>
-<dt><strong>15th July, Sorry Cancelled</strong></dt>
+<dt><strong>We hope to start at a new venue</strong></dt>
+<dt><strong>in March or April 2021</strong></dt>
 
     </dl>
   </dl>
@@ -26,13 +26,13 @@ permalink: "index.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dt><strong>PNL Centre at St Joseph’s,  Main Hall,</strong></dt>
-<dt><strong>122 Ladbroke Road,</strong></dt>
-<dt><strong>Redhill,</strong></dt>
-<dt><strong>RH1 1LF</strong></dt>
-<dt>under half a mile from the centre of Redhill,</dt>
-<dt>near SES Water,</dt>
+<dt><strong>New Venue,</strong></dt>
+<dt><strong>to be finalised,</strong></dt>
+<dt><strong></strong></dt>
+<dt>,</dt>
+<dt>,</dt>
 <dt>free parking</dt>
-<dt>It is a magnificent, new, large hall with a sprung floor</dt>
+<dt>A very large hall with wooden floor</dt>
   </dl>
 </article>
 
