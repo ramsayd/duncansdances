@@ -25,7 +25,7 @@ permalink: "index.html"
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
-    <dt><strong>PNL Centre at St Joseph’s,  Main Hall,</strong></dt>
+    <dt><strong></strong></dt>
 <dt><strong>New Venue,</strong></dt>
 <dt><strong>to be finalised,</strong></dt>
 <dt><strong></strong></dt>
