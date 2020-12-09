@@ -12,7 +12,7 @@ permalink: "evenings.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>None Evening dances booked</strong></dt>
+      <dt><strong>No evening dances booked</strong></dt>
       <dt><strong>due to Covid</strong></dt>
       <dt><strong></strong></dt>
       <dt><strong></strong></dt>
