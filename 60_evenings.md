@@ -12,11 +12,11 @@ permalink: "evenings.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>Duncan will be playing the music for</strong></dt>
-      <dt><strong>Simply the Best Ballroom Dancing,</strong></dt>
-      <dt><strong>8:00 to 10:45</strong></dt>
-      <dt><strong>on</strong></dt>
-        <dt><strong>Hopefully 14th November</strong></dt>
+      <dt><strong>None Evening dances booked</strong></dt>
+      <dt><strong>due to Covid</strong></dt>
+      <dt><strong></strong></dt>
+      <dt><strong></strong></dt>
+        <dt><strong></strong></dt>
 
    
     </dl>
@@ -27,12 +27,12 @@ permalink: "evenings.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
 
-    <dt><strong>Colman Redland Centre,</strong></dt>
-<dt><strong>Croydon Road,</strong></dt>
-<dt><strong>Reigate,</strong></dt>
-<dt><strong>RH2 0NA</strong></dt>
-<dt>(Next to the Surrey Fire Brigate Headquarters)</dt>
-<dt><strong>Free onsite parking</strong></dt>
+    <dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt></dt>
+<dt><strong></strong></dt>
   </dl>
 </article>
 
