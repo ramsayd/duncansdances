@@ -26,13 +26,13 @@ permalink: "index.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dt><strong></strong></dt>
-<dt><strong>New Venue</strong></dt>
-<dt><strong>to be finalised</strong></dt>
 <dt><strong></strong></dt>
-<dt>Watch this space</dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
 <dt></dt>
-<dt>free parking</dt>
-<dt>A very large hall with wooden floor</dt>
+<dt></dt>
+<dt></dt>
+<dt></dt>
   </dl>
 </article>
 
