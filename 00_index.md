@@ -6,17 +6,17 @@ permalink: "index.html"
 
 <article class="grid_12 center-text">
 <h2>Duncan & Christine's</h2>
-<h2>Afternoon Social & Practice Dances</h2>
+<h2>Afternoon Social Dances</h2>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>On the 3rd Wednesday of the month,</strong></dt>
-    <dt><strong>2pm to 4pm</strong></dt>   
-<dt><strong>Next dances:</strong></dt>
-<dt><strong>We hope to start at a new venue</strong></dt>
-<dt><strong>in March or April 2021</strong></dt>
+      <dt><strong>We are looking for a new venue</strong></dt>
+    <dt><strong></strong></dt>   
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
 
     </dl>
   </dl>
