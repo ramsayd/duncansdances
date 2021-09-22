@@ -18,7 +18,7 @@ permalink: "index.html"
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
 
-    </dl>
+   
   </dl>
 </article>
 
