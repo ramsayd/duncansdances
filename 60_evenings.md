@@ -26,8 +26,6 @@ permalink: "evenings.html"
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
-
-    <dt><strong></strong></dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
