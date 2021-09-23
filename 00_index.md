@@ -27,7 +27,7 @@ permalink: "index.html"
   <dl>
     <dt><strong></strong></dt>
 <dt><strong>Evening dances</strong></dt>
-<dt><strong>Started as invitation only</strong></dt>
+<dt><strong>Currently running as invitation only</strong></dt>
 <dt><strong>Most Fridays</strong></dt>
 <dt>Known Non-dance nights</dt>
 <dt>12th November</dt>
