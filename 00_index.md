@@ -23,7 +23,7 @@ permalink: "index.html"
 </article>
 
 
-<article class="grid_14 center-text padded-bottom">
+<article class="grid_18 center-text padded-bottom">
   <dl>
     <dt><strong></strong></dt>
 <dt><strong>Evening dances</strong></dt>
@@ -36,7 +36,7 @@ permalink: "index.html"
   </dl>
 </article>
 
-<article class="grid_12 center-text padded-bottom">
+<article class="grid_6 center-text padded-bottom">
 <dl>
 <dt><strong>£5 per person</strong></dt>
  <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
