@@ -1,19 +1,19 @@
 ---
-title: Afternoon Dances
+title: Home
 layout: page
 permalink: "index.html"
 ---
 
 <article class="grid_12 center-text">
 <h2>Duncan & Christine's</h2>
-<h2>Afternoon Social Dances</h2>
+<h2>Social Dances</h2>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>We are looking for a new venue</strong></dt>
-    <dt><strong></strong></dt>   
+      <dt><strong>Afternoon Dances</strong></dt>
+    <dt><strong>We are looking for a new venue</strong></dt>   
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
@@ -26,13 +26,13 @@ permalink: "index.html"
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dt><strong></strong></dt>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt>
-<dt></dt>
-<dt></dt>
-<dt></dt>
-<dt></dt>
+<dt><strong>Evening dances</strong></dt>
+<dt><strong>Started as invitation only</strong></dt>
+<dt><strong>Most Fridays</strong></dt>
+<dt>Known Non-dance nights</dt>
+<dt>12th November</dt>
+<dt>24th December</dt>
+<dt>31st December</dt>
   </dl>
 </article>
 
