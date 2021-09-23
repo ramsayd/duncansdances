@@ -23,7 +23,7 @@ permalink: "index.html"
 </article>
 
 
-<article class="grid_6 center-text padded-bottom">
+<article class="grid_7 center-text padded-bottom">
   <dl>
     <dt><strong></strong></dt>
 <dt><strong>Evening dances</strong></dt>
