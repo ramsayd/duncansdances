@@ -12,7 +12,7 @@ permalink: "index.html"
 <article class="grid_6 center-text padded-bottom">
     <dl>
       <dt><strong>Afternoon Dances</strong></dt>
-    <dt><strong>We are looking for a new venue</strong></dt>   
+    <dt>We are looking for a new venue</dt>   
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
@@ -28,7 +28,7 @@ permalink: "index.html"
 <dt><strong>Evening dances</strong></dt>
 <dt><strong>Currently running as invitation only</strong></dt>
 <dt><strong>Most Fridays</strong></dt>
-<dt>Known Non-dance nights</dt>
+<dt>Known non-dance nights</dt>
 <dt>12th November</dt>
 <dt>24th December</dt>
 <dt>31st December</dt>
@@ -40,5 +40,11 @@ permalink: "index.html"
 <dt><strong>£5 per person</strong></dt>
  <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
 </dl>
+    
+<article class="grid_6 center-text padded-bottom">
+<dl>
+<dt><strong>£7 per person</strong></dt>
+ <dt>Bring your own drinks</dt>
+</dl>    
 
 </article>
