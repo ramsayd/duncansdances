@@ -6,17 +6,19 @@ permalink: "evenings.html"
 
 
 <article class="grid_12 center-text">
-<h2>Evening Social & Practice Dances</h2>
+<h4>Evening Ballroom and Latin Dancing
+with some Sequence</h4>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
     <dl>
       <dt><strong>We have started Friday night dances</strong></dt>
-      <dt><strong>Invitation only at this stage</strong></dt>
+      <dt>Invitation only at this stage</dt>
+      <dt> </dt>
       <dt><strong>Website just used to say when no dances</strong></dt>
-      <dt><strong>No dance 12th November, </strong></dt>
-        <dt><strong>or 24th and 31st December</strong></dt>
+      <dt>No dances on 12th November </dt>
+        <dt>or 24th and 31st December</dt>
 
    
     </dl>
