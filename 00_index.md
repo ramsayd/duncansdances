@@ -5,8 +5,8 @@ permalink: "index.html"
 ---
 
 <article class="grid_12 center-text">
-<dt>Ballroom and Latin Dancing</dt>
-<dt>with some Sequence</dt>
+<h3>Ballroom and Latin Dancing</h3>
+<h3>with some Sequence</h3>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
