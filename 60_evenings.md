@@ -6,8 +6,18 @@ permalink: "evenings.html"
 
 
 <article class="grid_12 center-text">
-<h4>Evening Ballroom and Latin Dancing
-with some Sequence</h4>
+<h4>Evening Ballroom and Latin Dancing</h4>
+<h4>with some Sequence</h4>
+</article>
+
+<article class="grid_6 center-text padded-bottom">
+  <dl>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt></dt>
+<dt><strong></strong></dt>
+  </dl>
 </article>
 
 <article class="grid_12 center-text padded-bottom">
