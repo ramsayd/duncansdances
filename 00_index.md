@@ -5,8 +5,8 @@ permalink: "index.html"
 ---
 
 <article class="grid_12 center-text">
-<h2>Duncan & Christine's</h2>
-<h2>Social Dances</h2>
+<dt>Ballroom and Latin Dancing</dt>
+<dt>with some Sequence</dt>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
