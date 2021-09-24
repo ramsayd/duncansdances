@@ -10,7 +10,7 @@ permalink: "evenings.html"
 with some Sequence</h4>
 </article>
 
-<article class="grid_6 center-text padded-bottom">
+<article class="grid_12 center-text padded-bottom">
   <dl>
     <dl>
       <dt><strong>We have started Friday night dances</strong></dt>
