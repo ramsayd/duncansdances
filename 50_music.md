@@ -10,7 +10,7 @@ permalink: "The_Music.html"
 About the Music
 </div>
 <p>
-Review of last year's Afternoon Dances music
+Review of 12 months Afternoon Dances music
 </p><p>We played nearly 500 different tracks of which just over half were vocals and just under half were instrumentals
 </p><p>No track has been repeated in the year, other than those played at peoples' request, we play our favourites ones from our collection of over 17,000 tracks.
 </p><p>What we have played;
@@ -26,7 +26,7 @@ Review of last year's Afternoon Dances music
 <br/>Tangoes			37
 <br/>Viennese Waltzes		11
 <br/>Waltzes			75
-</p><p>The acoustics of the hall are good and we hope that you will enjoy the music as much as we do.
+</p><p>We hope that you will enjoy the music as much as we do.
 </p>
 </article>
 
