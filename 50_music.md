@@ -30,4 +30,14 @@ Review of 12 months Afternoon Dances music
 </p>
 </article>
 
+<article class="grid_6">
 
+
+<div class="information-header">
+Evening Dances
+</div>
+<p>
+The mix for our evening dances
+</p><p>will be similar but aslo have about 20% popular sequences dances
+</p>
+</article>
