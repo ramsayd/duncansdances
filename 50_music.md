@@ -3,12 +3,12 @@ title: The Music
 layout: page
 permalink: "The_Music.html"
 ---
+<article class="grid_12 center-text">
+<h4>About the music</h4>
+</article>
 
 <article class="grid_6">
 
-<div class="information-header">
-About the Music
-</div>
 <p>
 Review of a typical 12 months Afternoon Dance music
 </p><p>We played nearly 500 different tracks of which just over half were vocals and just under half were instrumentals
