@@ -37,6 +37,6 @@ Review of a typical 12 months Afternoon Dance music
 Evening Dances
 </div>
 <p>
-The mix for our evening dances will be similar but aslo have about 20% popular sequences dances
+The Ballroom & Latin mix for our evening dances will be similar but there will also be about 20% popular sequence dances
 </p>
 </article>
