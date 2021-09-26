@@ -4,13 +4,13 @@ layout: page
 permalink: "The_Music.html"
 ---
 <article class="grid_12 center-text">
-<h4>About the music</h4>
+<h4>About the Music</h4>
 </article>
 
-<div class="information-header">
+<article class="grid_6">
+  <div class="information-header">
 Afternoon Dances
 </div>
-<article class="grid_6">
 
 <p>
 Review of a typical 12 months Afternoon Dance music
