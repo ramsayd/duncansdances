@@ -7,6 +7,9 @@ permalink: "The_Music.html"
 <h4>About the music</h4>
 </article>
 
+<div class="information-header">
+Afternoon Dances
+</div>
 <article class="grid_6">
 
 <p>
