@@ -10,7 +10,7 @@ permalink: "The_Music.html"
 About the Music
 </div>
 <p>
-Review of 12 months Afternoon Dances music
+Review of a typical 12 months Afternoon Dance music
 </p><p>We played nearly 500 different tracks of which just over half were vocals and just under half were instrumentals
 </p><p>No track has been repeated in the year, other than those played at peoples' request, we play our favourites ones from our collection of over 17,000 tracks.
 </p><p>What we have played;
@@ -37,7 +37,6 @@ Review of 12 months Afternoon Dances music
 Evening Dances
 </div>
 <p>
-The mix for our evening dances
-</p><p>will be similar but aslo have about 20% popular sequences dances
+The mix for our evening dances will be similar but aslo have about 20% popular sequences dances
 </p>
 </article>
