@@ -34,8 +34,6 @@ Review of a typical 12 months Afternoon Dance music
 </article>
 
 <article class="grid_6">
-
-
 <div class="information-header">
 Evening Dances
 </div>
