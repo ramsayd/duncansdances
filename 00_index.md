@@ -41,11 +41,11 @@ permalink: "index.html"
 </article>
 
 
----<article class="grid_6 center-text padded-bottom">
----<dl>
----<dt><strong></strong></dt>
---- <dt></dt>
----</dl>
----</article>
+<article class="grid_6 center-text padded-bottom">
+<dl>
+<dt><strong></strong></dt>
+ <dt></dt>
+</dl>
+</article>
 
 
