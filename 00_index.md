@@ -41,11 +41,11 @@ permalink: "index.html"
 </article>
 
 
-<article class="grid_6 center-text padded-bottom">
-<dl>
-<dt><strong>£5 per person</strong></dt>
- <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
-</dl>
-</article>
+--<article class="grid_6 center-text padded-bottom">
+--<dl>
+--<dt><strong>£5 per person</strong></dt>
+-- <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
+--</dl>
+--</article>
 
 
