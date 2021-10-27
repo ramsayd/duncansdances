@@ -24,10 +24,12 @@ permalink: "evenings.html"
   <dl>
     <dl>
       <dt><strong>We have started Friday night dances</strong></dt>
-      <dt>Invitation only at this stage</dt>
+      <dt>Invitation only at this stage due to Covid</dt>
       <dt> </dt>
-      <dt><strong>Website just used to say when no dances</strong></dt>
-      <dt>No dances on 12th November </dt>
+      <dt>The Website is just being used to say when no there are no dances</dt>
+       <dt>and not to advertise it</dt>
+      <dt><strong>No dances on;</strong></dt> 
+         <dt>12th November </dt>
         <dt>or 24th and 31st December</dt>
 
    
