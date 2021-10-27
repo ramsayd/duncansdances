@@ -10,23 +10,10 @@ permalink: "index.html"
 </article>
 
 <article class="grid_6 center-text padded-bottom">
-    <dl>
-      <dt><strong>Afternoon Dances</strong></dt>
-    <dt>We are looking for a new venue</dt>   
-<dt><strong></strong></dt>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt>
-
-   
-  </dl>
-</article>
-
-
-<article class="grid_6 center-text padded-bottom">
   <dl>
     <dt><strong></strong></dt>
 <dt><strong>Evening Dances</strong></dt>
-<dt>Currently running as invitation only</dt>
+<dt>Currently running as invitation only due to Covid</dt>
 <dt><strong>Most Fridays</strong></dt>
 <dt>Known non-dance nights</dt>
 <dt>12th November</dt>
@@ -36,10 +23,13 @@ permalink: "index.html"
 </article>
 
 <article class="grid_6 center-text padded-bottom">
-<dl>
-<dt><strong>£5 per person</strong></dt>
- <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
-</dl>
+    <dl>
+      <dt><strong>Afternoon Dances</strong></dt>
+    <dt>We are looking for a new venue</dt>   
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>
+   </dl>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
@@ -47,5 +37,13 @@ permalink: "index.html"
 <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
 </dl>    
-
 </article>
+
+<article class="grid_6 center-text padded-bottom">
+<dl>
+<dt><strong>£5 per person</strong></dt>
+ <dt>Tea & Coffee 50p, you can bring your own drinks and nibbles</dt>
+</dl>
+</article>
+
+
