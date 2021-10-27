@@ -36,12 +36,6 @@ permalink: "index.html"
    </dl>
 </article>
 
-<article class="grid_6 center-text padded-bottom">
-<dl>
-<dt><strong>£7 per person</strong></dt>
- <dt>Bring your own drinks</dt>
-</dl>    
-</article>
 
 <article class="grid_6 center-text padded-bottom">
 <dl>
