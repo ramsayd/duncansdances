@@ -19,6 +19,10 @@ permalink: "index.html"
 <dt>12th November</dt>
 <dt>24th December</dt>
 <dt>31st December</dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt>    
+<dt><strong>£7 per person</strong></dt>
+<dt>Bring your own drinks</dt>
   </dl>
 </article>
 
