@@ -26,8 +26,8 @@ permalink: "evenings.html"
       <dt><strong>We have started Friday night dances</strong></dt>
       <dt>Invitation only at this stage due to Covid</dt>
       <dt> </dt>
-      <dt>The Website is just being used to say when no there are no dances</dt>
-       <dt>and not to advertise it</dt>
+      <dt>The Website is just being used to say when</dt>
+       <dt>there are no dances and not to advertise them</dt>
       <dt><strong>No dances on;</strong></dt> 
          <dt>12th November </dt>
         <dt>or 24th and 31st December</dt>
