@@ -14,13 +14,17 @@ permalink: "index.html"
     <dt><strong></strong></dt>
 <dt><strong>Evening Dances</strong></dt>
 <dt>Currently running as invitation only due to Covid</dt>
-<dt><strong>Most Fridays</strong></dt>
+<dt><strong>Most Fridays, 8 to 10:30</strong></dt>
+<dt><strong></strong></dt>
+<dt><strong></strong></dt> 
+<dt><strong></strong></dt>
 <dt>Known non-dance nights</dt>
 <dt>12th November</dt>
 <dt>24th December</dt>
 <dt>31st December</dt>
 <dt><strong></strong></dt>
-<dt><strong></strong></dt>    
+<dt><strong></strong></dt> 
+<dt><strong></strong></dt>
 <dt><strong>£7 per person</strong></dt>
 <dt>Bring your own drinks</dt>
   </dl>
