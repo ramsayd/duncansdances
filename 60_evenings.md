@@ -30,7 +30,7 @@ permalink: "evenings.html"
        <dt>there are no dances and not to advertise them</dt>
       <dt><strong>No dances on;</strong></dt> 
          
-        <dt>or 24th and 31st December</dt>
+        <dt>24th and 31st December</dt>
 
    
     </dl>
