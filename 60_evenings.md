@@ -28,9 +28,9 @@ permalink: "evenings.html"
       <dt> </dt>
       <dt>The Website is just being used to say when</dt>
        <dt>there are no dances and not to advertise them</dt>
-      <dt><strong>No dances on;</strong></dt> 
+      <dt><strong>No dance on;</strong></dt> 
          
-        <dt>24th and 31st December</dt>
+        <dt>31st December</dt>
 
    
     </dl>
