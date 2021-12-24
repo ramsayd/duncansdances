@@ -19,7 +19,7 @@ permalink: "index.html"
 <dt><strong></strong></dt> 
 <dt><strong></strong></dt>
 <dt>Known non-dance nights</dt>
-<dt>24th December</dt>
+
 <dt>31st December</dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt> 
