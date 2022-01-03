@@ -24,7 +24,7 @@ permalink: "evenings.html"
   <dl>
     <dl>
       <dt><strong>Due to Covid our Friday night dances</strong></dt>
-      <dt>are currently Invitation Only </dt>
+      <dt><strong>are currently Invitation Only </strong></dt>
       <dt> </dt>
       <dt>This Website is just being used to say when</dt>
        <dt>there are no dances and not to advertise them</dt>
