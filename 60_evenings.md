@@ -23,14 +23,14 @@ permalink: "evenings.html"
 <article class="grid_12 center-text padded-bottom">
   <dl>
     <dl>
-      <dt><strong>We have started Friday night dances</strong></dt>
-      <dt>Invitation only at this stage due to Covid</dt>
+      <dt><strong>Due to Covid our Friday night dances</strong></dt>
+      <dt>are currently Invitation Only </dt>
       <dt> </dt>
-      <dt>The Website is just being used to say when</dt>
+      <dt>This Website is just being used to say when</dt>
        <dt>there are no dances and not to advertise them</dt>
       <dt><strong>No dance on;</strong></dt> 
          
-        <dt>31st December</dt>
+        <dt>18th March</dt>
 
    
     </dl>
