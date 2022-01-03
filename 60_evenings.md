@@ -22,8 +22,7 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
   <dl>
-    <dl>
-      <dt><strong>Due to Covid our Friday night dances</strong></dt>
+          <dt><strong>Due to Covid our Friday night dances</strong></dt>
       <dt><strong>are currently Invitation Only </strong></dt>
       <dt> </dt>
       <dt>This Website is just being used to say when</dt>
@@ -33,8 +32,7 @@ permalink: "evenings.html"
         <dt>18th March</dt>
 
    
-    </dl>
-  </dl>
+     </dl>
 </article>
 
 
@@ -50,6 +48,7 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
+  <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
 </dl>
