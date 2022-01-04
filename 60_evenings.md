@@ -26,7 +26,7 @@ permalink: "evenings.html"
       <dt><strong>are currently Invitation Only </strong></dt>
       <dt> </dt>
       <dt>This Website is just being used to say when</dt>
-       <dt>there are no dances and not to advertise them</dt>
+       <dt>there are no dances and not to advertise them hence the venue is not provided</dt>
       <dt><strong>No dance on;</strong></dt> 
          
         <dt>18th March</dt>
