@@ -25,6 +25,7 @@ permalink: "index.html"
 <dt><strong></strong></dt>
 <dt><strong></strong></dt> 
 <dt><strong></strong></dt>
+            <BR>
 <dt><strong>£7 per person</strong></dt>
 <dt>Bring your own drinks</dt>
   </dl>
