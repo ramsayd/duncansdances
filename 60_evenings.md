@@ -28,7 +28,7 @@ permalink: "evenings.html"
       <dt>This Website is just being used to say when</dt>
        <dt>there are no dances and not to advertise them hence the venue is not provided</dt>
       <dt><strong>No dance on;</strong></dt> 
-         
+  <dt>21st January cancelled at short notice, Christine has Covid</dt>       
         <dt>18th March</dt>
 
    
