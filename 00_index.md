@@ -14,6 +14,7 @@ permalink: "index.html"
     <dt><strong></strong></dt>
 <dt><strong>Evening Dances</strong></dt>
 <dt>Currently running as invitation only due to Covid</dt>
+    <BR>
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt> 
