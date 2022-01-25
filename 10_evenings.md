@@ -51,6 +51,7 @@ permalink: "evenings.html"
 <article class="grid_12 center-text padded-bottom">
 <dl>
   <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
+  <BR>
 <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
 </dl>
