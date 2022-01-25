@@ -17,7 +17,7 @@ permalink: "index.html"
     <BR>
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <BR>
-<dt>Known non-dance nights</dt>
+<dt><strong>Known non-dance nights</strong></dt>
 <dt></dt>
 <dt>18th March</dt>
 <BR>
