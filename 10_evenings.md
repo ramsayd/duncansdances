@@ -30,7 +30,7 @@ permalink: "evenings.html"
        <dt>there are no dances and not to advertise them hence the venue is not provided</dt>
       <BR>
       <dt><strong>No dance on;</strong></dt> 
-  <dt>21st January cancelled at short notice, Christine has Covid</dt>       
+  <dt></dt>       
         <dt>18th March</dt>
 
    
