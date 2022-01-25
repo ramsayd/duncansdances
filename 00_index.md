@@ -20,7 +20,7 @@ permalink: "index.html"
 <dt><strong></strong></dt> 
 <dt><strong></strong></dt>
 <dt>Known non-dance nights</dt>
-<dt>21st January cancelled at short notice, Christine has Covid</dt>
+<dt></dt>
 <dt>18th March</dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt> 
