@@ -16,15 +16,11 @@ permalink: "index.html"
 <dt>Currently running as invitation only due to Covid</dt>
     <BR>
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt> 
-<dt><strong></strong></dt>
+<BR>
 <dt>Known non-dance nights</dt>
 <dt></dt>
 <dt>18th March</dt>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt> 
-<dt><strong></strong></dt>
+<BR>
             <BR>
 <dt><strong>£7 per person</strong></dt>
 <dt>Bring your own drinks</dt>
