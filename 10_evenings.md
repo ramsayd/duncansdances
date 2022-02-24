@@ -30,6 +30,8 @@ permalink: "evenings.html"
        <dt>24 Carshalton Rd, </dt>
       <dt>Woodmansterne, SM7 3HR</dt>
       <BR>
+        <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
+        <BR>
       <dt><strong>No dance on;</strong></dt> 
   <dt></dt>       
         <dt>18th March</dt>
@@ -51,8 +53,7 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
-  <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
-  <BR>
+    <BR>
 <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
 </dl>
