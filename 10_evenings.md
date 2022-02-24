@@ -36,11 +36,8 @@ permalink: "evenings.html"
       <dt><strong>No dance on;</strong></dt> 
   <dt></dt>       
         <dt>18th March</dt>
-
-   
-     </dl>
+      </dl>
 </article>
-
 
 <article class="grid_6 center-text padded-bottom">
   <dl>
@@ -54,7 +51,7 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
-    <BR>
+
 <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
 </dl>
