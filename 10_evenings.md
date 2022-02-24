@@ -22,12 +22,13 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
   <dl>
-          <dt><strong>Due to Covid our Friday night dances</strong></dt>
-      <dt><strong>are currently Invitation Only </strong></dt>
+          <dt><strong>Due to Covid if you have not been before please make contact before you come</strong></dt>
+      <dt><strong> </strong></dt>
       <dt> </dt>
     <BR>
-      <dt>This Website is just being used to say when</dt>
-       <dt>there are no dances and not to advertise them hence the venue is not provided</dt>
+      <dt>Woodmansterne Village Hall</dt>
+       <dt>24 Carshalton Rd, </dt>
+      <dt>Woodmansterne, SM7 3HR</dt>
       <BR>
       <dt><strong>No dance on;</strong></dt> 
   <dt></dt>       
