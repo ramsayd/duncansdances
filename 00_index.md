@@ -6,7 +6,7 @@ permalink: "index.html"
 
 <article class="grid_12 center-text">
 <h4>Ballroom and Latin Dancing</h4>
-<h4>with some Sequence</h4>
+<h4>with about 20% popular Sequence</h4>
 </article>
 
 <article class="grid_6 center-text padded-bottom">
