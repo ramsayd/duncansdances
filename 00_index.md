@@ -13,7 +13,7 @@ permalink: "index.html"
   <dl>
     <dt><strong></strong></dt>
 <dt><strong>Evening Dances</strong></dt>
-<dt>Currently running as invitation only due to Covid</dt>
+<dt>Due to Covid if you have not been before please contact before attanding</dt>
     <BR>
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <BR>
