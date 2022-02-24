@@ -27,8 +27,9 @@ permalink: "evenings.html"
       <dt> </dt>
     <BR>
       <dt>Woodmansterne Village Hall</dt>
-       <dt>24 Carshalton Rd, </dt>
-      <dt>Woodmansterne, SM7 3HR</dt>
+       <dt>24 Carshalton Rd</dt>
+      <dt>Woodmansterne</dt>
+       <dt>SM7 3HR</dt>
       <BR>
         <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
         <BR>
