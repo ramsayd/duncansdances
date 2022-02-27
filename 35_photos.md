@@ -10,17 +10,17 @@ permalink: "Photos.html"
 
 <article class="grid_12 Visible center-text">
 <h4>Woodmansterne Village Hall - Dancing Area</h4>
-<img src="images/WVH Hall from door.jpg" class="padded-bottom"/>
+<img src="images/WVH_Hall_from_door.jpg" class="padded-bottom"/>
 <h4>Seating Area</h4>
-  <img src="images/WVH Seating area.jpg" class="padded-bottom"/>
+  <img src="images/WVH_Seating_area.jpg" class="padded-bottom"/>
 </article>
 
 <article class="grid_12 Visible center-text">
 <h4>Scristmas Decorataions 2021</h4>
-<img src="images/Christmas decorations.jpg" class="padded-bottom"/>
-<img src="images/Christmas decorations 2.jpg" class="padded-bottom"/>
-  <img src="images/Christmas tables.jpg" class="padded-bottom"/>
-  <img src="images/Christmas tables 2.jpg" class="padded-bottom"/>
+<img src="images/Christmas_decorations.jpg" class="padded-bottom"/>
+<img src="images/Christmas_decorations_2.jpg" class="padded-bottom"/>
+  <img src="images/Christmas_tables.jpg" class="padded-bottom"/>
+  <img src="images/Christmas_tables_2.jpg" class="padded-bottom"/>
 </article>
 
 
