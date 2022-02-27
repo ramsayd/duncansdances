@@ -15,15 +15,16 @@ permalink: "Photos.html"
   <img src="images/WVH_Seating_area.JPG" class="padded-bottom"/>
 </article>
 
-<article class="grid_12 Visible center-text">
+<article class="grid_6 Visible center-text">
 <h4>Cristmas Decorataions 2021</h4>
 <img src="images/Christmas_decorationsb.JPG" class="padded-bottom"/>
 <img src="images/Christmas_decorations_2b.JPG" class="padded-bottom"/>
+</article>
+
+<article class="grid_6 Visible center-text">
   <img src="images/Christmas_tablesb.JPG" class="padded-bottom"/>
   <img src="images/Christmas_tables_2b.JPG" class="padded-bottom"/>
 </article>
-
-
 
 
 <article class="grid_12 Visible center-text">
