@@ -17,10 +17,10 @@ permalink: "Photos.html"
 
 <article class="grid_12 Visible center-text">
 <h4>Cristmas Decorataions 2021</h4>
-<img src="images/Christmas_decorations.JPG" class="padded-bottom"/>
-<img src="images/Christmas_decorations_2.JPG" class="padded-bottom"/>
-  <img src="images/Christmas_tables.JPG" class="padded-bottom"/>
-  <img src="images/Christmas_tables_2.JPG" class="padded-bottom"/>
+<img src="images/Christmas_decorationsb.JPG" class="padded-bottom"/>
+<img src="images/Christmas_decorations_2b.JPG" class="padded-bottom"/>
+  <img src="images/Christmas_tablesb.JPG" class="padded-bottom"/>
+  <img src="images/Christmas_tables_2b.JPG" class="padded-bottom"/>
 </article>
 
 
