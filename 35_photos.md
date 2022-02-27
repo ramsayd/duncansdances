@@ -16,7 +16,7 @@ permalink: "Photos.html"
 </article>
 
 <article class="grid_12 Visible center-text">
-<h4>Scristmas Decorataions 2021</h4>
+<h4>Cristmas Decorataions 2021</h4>
 <img src="images/Christmas_decorations.jpg" class="padded-bottom"/>
 <img src="images/Christmas_decorations_2.jpg" class="padded-bottom"/>
   <img src="images/Christmas_tables.jpg" class="padded-bottom"/>
