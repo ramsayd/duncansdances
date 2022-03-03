@@ -13,7 +13,8 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
   <dl>
-          <dt><strong>Due to Covid if you have not been before please make contact before you come</strong></dt>
+         <BR>
+           <dt><strong>Due to Covid if you have not been before please make contact before you come</strong></dt>
    </dl>
 </article>   
     
