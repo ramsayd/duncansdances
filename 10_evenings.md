@@ -10,35 +10,36 @@ permalink: "evenings.html"
 <h4>with about 20% popular Sequence</h4>
 </article>
 
-<article class="grid_6 center-text padded-bottom">
-  <dl>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt>
-<dt><strong></strong></dt>
-<dt></dt>
-<dt><strong></strong></dt>
-  </dl>
-</article>
 
 <article class="grid_12 center-text padded-bottom">
   <dl>
           <dt><strong>Due to Covid if you have not been before please make contact before you come</strong></dt>
-      <dt><strong> </strong></dt>
-      <dt> </dt>
-    <BR>
-      <dt>Woodmansterne Village Hall</dt>
-       <dt>24 Carshalton Road</dt>
-      <dt>Woodmansterne</dt>
-       <dt>SM7 3HR</dt>
-      <BR>
-        <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
+   </dl>
+</article>   
+    
+  </article>
+<article class="grid_6 center-text padded-bottom">
+  <dl>   
+       <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
         <BR>
       <dt><strong>No dance on;</strong></dt> 
-  <dt></dt>       
-        <dt>18th March</dt>
+         <dt>18th March</dt>
       </dl>
 </article>
-
+  
+<article class="grid_6 center-text padded-bottom">
+  <dl>
+ <dt><strong>Woodmansterne Village Hall</strong></dt>
+       <dt>24 Carshalton Road</dt>
+      <dt>Woodmansterne</dt>
+       <dt>SM7 3HR</dt><dt><strong></strong></dt>
+<BR>
+<dt>The hall has a new and well kept wooden floor</dt>
+<dt>The dance floor is 16.5m X 8.2m (54' X 27') </dt>
+<dt>with seating off the dance floor</dt>
+  </dl>
+</article>
+      
 <article class="grid_6 center-text padded-bottom">
   <dl>
 <dt><strong></strong></dt>
