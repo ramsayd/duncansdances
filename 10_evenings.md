@@ -55,10 +55,8 @@ permalink: "evenings.html"
 
 <article class="grid_12 center-text padded-bottom">
 <dl>
-
-<dt><strong>></dt>
+<dt><strong></strong></dt>
  <dt></dt>
 </dl>
-
 </article>
 
