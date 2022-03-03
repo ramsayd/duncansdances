@@ -15,8 +15,8 @@ permalink: "evenings.html"
   <dl>
          <BR>
            <dt><strong>Due to Covid if you have not been before please make contact
-             <a href="mailto:DuncansDances@gmail.com">DuncansDances@gmail.com</a>
-              a few days before you want to attend</strong></dt>
+             <a href="mailto:DuncansDances@gmail.com">DuncansDances@gmail.com</a></strong></dt>
+              <dt><strong>a few days before you want to attend</strong></dt>
    </dl>
 </article>   
     
