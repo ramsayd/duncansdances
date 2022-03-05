@@ -8,11 +8,18 @@ permalink: "Photos.html"
 <img src="images/Lights_flashing.gif" class="padded-bottom"/>
 </article>
 
-<article class="grid_12 center-text">
+<article class="grid_6 center-text">
 <h4>Woodmansterne Village Hall - Dancing Area</h4>
-<img src="images/WVH_Hall_from_door.JPG" class="padded-bottom"/>
+<img src="images/WVH_Hall_from_door480.JPG" class="padded-bottom"/>
 <h4>Seating Area</h4>
-  <img src="images/WVH_Seating_area.JPG" class="padded-bottom"/>
+  <img src="images/WVH_Seating_area480.JPG" class="padded-bottom"/>
+</article>
+
+<article class="grid_6 center-text">
+<h4> Dancing Area in daylight</h4>
+<img src="images/DSC04058c.JPG" class="padded-bottom"/>
+<h4>Seating Area</h4>
+  <img src="images/DSC04060c.JPG" class="padded-bottom"/>
 </article>
 
 <article class="grid_12 center-text padded bottom">
