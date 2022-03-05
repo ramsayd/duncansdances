@@ -32,13 +32,6 @@ permalink: "Photos.html"
   <img src="images/WVH_Seating_area480.JPG" class="padded-bottom"/>
 </article>
 
-<article class="grid_6 center-text">
-<h4> Dancing Area in daylight</h4>
-<img src="images/DSC04058c.JPG" class="padded-bottom"/>
-<h4>Seating Area</h4>
-  <img src="images/DSC04060c.JPG" class="padded-bottom"/>
-</article>
-
 <article class="grid_12 center-text padded bottom">
 <h4>Cristmas Decorataions 2021</h4>
 </article>
