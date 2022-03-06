@@ -13,11 +13,11 @@ permalink: "Photos.html"
  </article> 
  
  <article class="grid_6 center-text">
-<img src="images/DSC04058c.JPG" class="padded-bottom"/>
+<img src="images/DSC04058c440.JPG" class="padded-bottom"/>
 </article>
 
  <article class="grid_6 center-text">
-<img src="images/WVH_Hall_from_door480.JPG" class="padded-bottom"/>
+<img src="images/WVH_Hall_from_door440.JPG" class="padded-bottom"/>
 </article>
 
 <article class="grid_12 center-text">
@@ -25,11 +25,11 @@ permalink: "Photos.html"
  </article> 
  
  <article class="grid_6 center-text">
-  <img src="images/DSC04060c.JPG" class="padded-bottom"/>
+  <img src="images/DSC04060c440.JPG" class="padded-bottom"/>
 </article>
 
  <article class="grid_6 center-text">
-  <img src="images/WVH_Seating_area480.JPG" class="padded-bottom"/>
+  <img src="images/WVH_Seating_area440.JPG" class="padded-bottom"/>
 </article>
 
 <article class="grid_12 center-text padded bottom">
