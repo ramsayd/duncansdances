@@ -37,13 +37,13 @@ permalink: "Photos.html"
 </article>
 
 <article class="grid_6 center-text padded bottom">
-<img src="images/Christmas_decorationsc.JPG" class="padded-bottom"/>
-<img src="images/Christmas_decorations_2c.JPG" class="padded-bottom"/>
+<img src="images/Christmas_decorationsd.JPG" class="padded-bottom"/>
+<img src="images/Christmas_decorations_2d.JPG" class="padded-bottom"/>
 </article>
 
 <article class="grid_6 center-text padded bottom">
-  <img src="images/Christmas_tablesc.JPG" class="padded-bottom"/>
-  <img src="images/Christmas_tables_2c.JPG" class="padded-bottom"/>
+  <img src="images/Christmas_tablesd.JPG" class="padded-bottom"/>
+  <img src="images/Christmas_tables_2d.JPG" class="padded-bottom"/>
 </article>
 
 
