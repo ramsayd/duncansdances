@@ -47,6 +47,7 @@ Evening Dances
 <br/>Rumba One  
 <br/>Queen of Hearts Rumba
 <br/>Sally Anne Cha Cha
+<br/>Saunter Together
 <br/>Sindy Swing
 <br/>Square Tango
 <br/>Tango Serida
