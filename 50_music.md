@@ -12,7 +12,7 @@ permalink: "The_Music.html"
 <div class="information-header">
 Evening Dances
 </div>
-<p>With a few exceptions no track will be repeated for over 9 months, other than those played at peoples' request, we play our favourites ones from our collection of over 18,000 tracks. Roughly half Vocal and and half Instrumental</p>
+<p>With a few exceptions no track will be repeated for over 9 months, other than those played at peoples' request, we play our favourites ones from our collection of over 18,000 tracks. About half are Vocals and half Instrumental</p>
 </article>
 
   <article class="grid_4">
