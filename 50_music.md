@@ -16,7 +16,8 @@ Evening Dances
 </article>
 
   <article class="grid_6">
-  <p>
+  <BR>
+    <p>
   <strong>A typical evening will have; </strong>
 </p>
  </article>
