@@ -8,21 +8,16 @@ permalink: "The_Music.html"
 </article>
 
 
-<article class="grid_6">
+<article class="grid_4">
 <div class="information-header">
 Evening Dances
 </div>
 <p>With a few exceptions no track will be repeated for over 9 months, other than those played at peoples' request, we play our favourites ones from our collection of over 18,000 tracks. Roughly half Vocal and and half Instrumental</p>
 </article>
 
-  <article class="grid_6">
+  <article class="grid_4">
   <BR>
-    <p>
-  <strong>A typical evening will have; </strong>
-</p>
- </article>
- 
- <article class="grid_3">
+    <p>  <strong>A typical evening will have; </strong></p>
   <p>Argentine Tango		1
 <br/>Cha Cha Cha		6
 <br/>Jive			2
@@ -38,7 +33,28 @@ Evening Dances
 <br/>Waltzes			6
     </p>
   </article>
-  <article class="grid_6">
+  
+   <article class="grid_4">
+  <BR>
+    <p>  <strong>The Sequence Dances are; </strong></p>
+  <p>Alpine Stroll
+<br/>Argentine Stroll
+<br/>Katherine Waltz
+<br/>Lilac Waltz
+<br/>Mambo Magic
+<br/>Mayfair Quicktep 
+<br/>Melody Foxtrot
+<br/>Rumba One  
+<br/>Queen of Hearts Rumba
+<br/>Sally Anne Cha Cha
+<br/>Sindy Swing
+<br/>Square Tango
+<br/>Tango Serida
+<br/>Vienesse Swing
+    </p>
+  </article>
+  
+  <article class="grid_12">
 <p>We hope that you will enjoy the music as much as we do.
 </p>  
 </article>
