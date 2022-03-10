@@ -39,7 +39,7 @@ permalink: "evenings.html"
       <dt>Woodmansterne</dt>
        <dt>SM7 3HR</dt>
     <dt>The hall has a large car park</dt>
-    <dt>The 166 bus, Banstaed to Coulsdon stops</dt>
+    <dt>The 166 bus, Banstead to Coulsdon stops</dt>
     <dt> outside every 20 minutes</dt>
 <BR>
 <dt>The hall has a new and well kept wooden floor</dt>
