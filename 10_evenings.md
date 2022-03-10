@@ -37,7 +37,7 @@ permalink: "evenings.html"
  <dt><strong>Woodmansterne Village Hall</strong></dt>
        <dt>24 Carshalton Road</dt>
       <dt>Woodmansterne</dt>
-       <dt>SM7 3HR</dt>
+       <dt>SM7 3HR <a href="http://streetmap.co.uk/grid/527573_160104/" target="_blank" >Show Map</a></dt>
     <dt>The hall has a large car park</dt>
     <dt>The 166 bus, Banstead to Coulsdon stops</dt>
     <dt> outside every 20 minutes</dt>
