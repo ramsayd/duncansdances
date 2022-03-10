@@ -35,8 +35,9 @@ Evening Dances
 <br/>Tangoes			4
 <br/>Viennese Waltzes		1
 <br/>Waltzes			6
+    </p>
   </article>
   <article class="grid_6">
-</p><p>We hope that you will enjoy the music as much as we do.
+<p>We hope that you will enjoy the music as much as we do.
 </p>  
 </article>
