@@ -37,7 +37,10 @@ permalink: "evenings.html"
  <dt><strong>Woodmansterne Village Hall</strong></dt>
        <dt>24 Carshalton Road</dt>
       <dt>Woodmansterne</dt>
-       <dt>SM7 3HR</dt><dt><strong></strong></dt>
+       <dt>SM7 3HR</dt>
+    <dt>The hall has a large car park</dt>
+    <dt>The 166 bus, Banstaed to Coulsdon stops</dt>
+    <dt> outside every 20 minutes</dt>
 <BR>
 <dt>The hall has a new and well kept wooden floor</dt>
 <dt>The dance floor is 16.5m X 8.2m (54' X 27') </dt>
