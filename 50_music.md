@@ -39,6 +39,7 @@ Evening Dances
     <p>  <strong>The Sequence Dances are; </strong></p>
   <p>Alpine Stroll
 <br/>Argentine Stroll
+    <br/>Balmoral Blues
 <br/>Katherine Waltz
 <br/>Lilac Waltz
 <br/>Mambo Magic
@@ -52,6 +53,7 @@ Evening Dances
 <br/>Square Tango
 <br/>Tango Serida
 <br/>Vienesse Swing
+    <br/>White City Waltz
     </p>
   </article>
   
