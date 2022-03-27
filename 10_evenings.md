@@ -25,7 +25,7 @@ permalink: "evenings.html"
        <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
         <BR>
       <dt><strong>No dance on;</strong></dt> 
-         <dt>18th March</dt>
+         <dt>None known at present</dt>
           <BR>
           <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
