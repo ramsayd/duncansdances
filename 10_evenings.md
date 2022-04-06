@@ -43,7 +43,7 @@ permalink: "evenings.html"
     <dt> outside every 20 minutes</dt>
 <BR>
 <dt>The hall has a new and well kept wooden floor</dt>
-<dt>The dance floor is 16.5m X 8.2m (54' X 27') </dt>
+<dt>The dance floor is 16.5m X 8.2m (54' X 27') 135sqM </dt>
 <dt>with seating off the dance floor</dt>
   </dl>
 </article>
