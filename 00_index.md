@@ -19,7 +19,7 @@ permalink: "index.html"
 <BR>
 <dt><strong>Known non-dance nights</strong></dt>
 <dt></dt>
-<dt>None known at present</dt>
+<dt>8th July</dt>
 <BR>
             <BR>
 <dt><strong>£7 per person</strong></dt>
