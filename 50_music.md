@@ -1,5 +1,5 @@
 ---
-title: The Music
+title: Music & Dances
 layout: page
 permalink: "Music & Dances.html"
 ---
