@@ -37,12 +37,12 @@ permalink: "Photos.html"
 </article>
 
 <article class="grid_6 center-text padded bottom">
-<img src="DSC04174s.JPG" class="padded-bottom"/>
+<img src="images/DSC04174s.JPG" class="padded-bottom"/>
   <BR>
 </article>
 
   <article class="grid_6 center-text padded bottom">
- <img src="DSC04172s.JPG" class="padded-bottom"/>
+ <img src="images/DSC04172s.JPG" class="padded-bottom"/>
 </article>
 
   <article class="grid_12 center-text padded bottom">
