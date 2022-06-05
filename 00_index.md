@@ -30,7 +30,7 @@ permalink: "index.html"
 <article class="grid_6 center-text padded-bottom">
     <dl>
       <dt><strong>Afternoon Dances</strong></dt>
-    <dt>We are looking for a new venue</dt>   
+    <dt>We are not currently running any afternoon dances</dt>   
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
 <dt><strong></strong></dt>
