@@ -1,7 +1,7 @@
 ---
 title: The Music
 layout: page
-permalink: "The_Music.html"
+permalink: "Music & Dances.html"
 ---
 <article class="grid_12 center-text">
 <h4>About the Music</h4>
@@ -45,6 +45,7 @@ Evening Dances
 <br/>Mambo Magic
 <br/>Mayfair Quicktep 
 <br/>Melody Foxtrot
+<br/>Platinum Waltz    
 <br/>Rumba One  
 <br/>Queen of Hearts Rumba
 <br/>Sally Anne Cha Cha
