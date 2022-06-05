@@ -26,7 +26,7 @@ Evening Dances
 <br/>Quicksteps		6
 <br/>Rumbas			6	
 <br/>Sambas			2
-<br/>Sequence			10
+<br/>Sequence			10  from the list on the right
 <br/>Slow Foxtrots		6
 <br/>Tangoes			4
 <br/>Viennese Waltzes		1
