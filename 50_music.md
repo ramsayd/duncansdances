@@ -1,7 +1,7 @@
 ---
 title: Music & Dances
 layout: page
-permalink: "Music & Dances.html"
+permalink: "The_Music.html"
 ---
 <article class="grid_12 center-text">
 <h4>About the Music</h4>
