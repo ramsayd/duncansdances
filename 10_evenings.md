@@ -25,7 +25,8 @@ permalink: "evenings.html"
        <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
         <BR>
       <dt><strong>No dance on;</strong></dt> 
-         <dt>None known</dt>
+         <dt>23rd September</dt>
+  <dt>14th October</dt>
           <BR>
           <dt><strong>£7 per person</strong></dt>
  <dt>Bring your own drinks</dt>
