@@ -19,7 +19,7 @@ permalink: "index.html"
 <BR>
 <dt><strong>Known non-dance nights</strong></dt>
 <dt></dt>
-  <dt>14th October</dt>
+  <dt>23rd & 30th December</dt>
 <BR>
             <BR>
 <dt><strong>£7 per person</strong></dt>
