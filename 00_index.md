@@ -22,7 +22,7 @@ permalink: "index.html"
   <dt>Good Friday, 7th April</dt>
 <BR>
             <BR>
-<dt><strong>£7 per person, going up to £7.50 from 01/03/2023</strong></dt>
+<dt><strong>£7.50 per person</strong></dt>
 <dt>Bring your own drinks</dt>
   </dl>
 </article>
