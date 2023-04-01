@@ -10,9 +10,6 @@ permalink: "evenings.html"
 <h4>with about 20% popular Sequence</h4>
 </article>
 
-
-
-</article>   
     
   <article class="grid_6 center-text padded-bottom">
   <dl>   
