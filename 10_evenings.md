@@ -11,13 +11,7 @@ permalink: "evenings.html"
 </article>
 
 
-<article class="grid_12 center-text padded-bottom">
-  <dl>
-         <BR>
-           <dt><strong>Due to Covid if you have not been before please make contact
-             <a href="mailto:DuncansDances@gmail.com">DuncansDances@gmail.com</a></strong></dt>
-              <dt><strong>a few days before you want to attend</strong></dt>
-   </dl>
+
 </article>   
     
   <article class="grid_6 center-text padded-bottom">
