@@ -18,7 +18,7 @@ permalink: "index.html"
 <BR>
 <dt><strong>Known non-dance nights</strong></dt>
 <dt></dt>
-  <dt>Good Friday, 7th April</dt>
+  <dt>None known</dt>
 <BR>
             <BR>
 <dt><strong>£7.50 per person</strong></dt>
