@@ -16,10 +16,9 @@ permalink: "index.html"
     <BR>
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <BR>
-<dt><strong>6th October</strong></dt>
-    <dt><strong>22nd & 29th December</strong></dt>
-<dt></dt>
-  <dt>None known</dt>
+ <dt><strong>No dance on;</strong></dt> 
+           <dt>6th October</dt>
+    <dt>22nd & 29th December</dt>
 <BR>
             <BR>
 <dt><strong>£7.50 per person</strong></dt>
