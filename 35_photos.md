@@ -32,6 +32,21 @@ permalink: "Photos.html"
   <img src="images/WVH_Seating_area440.JPG" class="padded-bottom"/>
 </article>
 
+  <article class="grid_12 center-text padded bottom">
+<h4>Cristmas Decorataions 2023</h4>
+</article>
+
+<article class="grid_6 center-text padded bottom">
+<img src="images/Christmas_decorationsd.JPG" class="padded-bottom"/>
+<img src="images/Christmas_decorations_2d.JPG" class="padded-bottom"/>
+  <BR>
+</article>
+
+<article class="grid_6 center-text padded bottom">
+  <img src="images/Christmas_tablesd.JPG" class="padded-bottom"/>
+  <img src="images/Christmas_tables_2d.JPG" class="padded-bottom"/>
+</article>
+
 <article class="grid_12 center-text padded bottom">
 <h4>Platinum Jubilee Decorataions 2022</h4>
 </article>
@@ -45,20 +60,6 @@ permalink: "Photos.html"
  <img src="images/DSC04172s.JPG" class="padded-bottom"/>
 </article>
 
-  <article class="grid_12 center-text padded bottom">
-<h4>Cristmas Decorataions 2021</h4>
-</article>
-
-<article class="grid_6 center-text padded bottom">
-<img src="images/Christmas_decorationsd.JPG" class="padded-bottom"/>
-<img src="images/Christmas_decorations_2d.JPG" class="padded-bottom"/>
-  <BR>
-</article>
-
-<article class="grid_6 center-text padded bottom">
-  <img src="images/Christmas_tablesd.JPG" class="padded-bottom"/>
-  <img src="images/Christmas_tables_2d.JPG" class="padded-bottom"/>
-</article>
 
 
 
