@@ -38,7 +38,7 @@ permalink: "Photos.html"
 
 <article class="grid_6 center-text padded bottom">
 <img src="images/20231215_200111s520.jpg" class="padded-bottom"/>
-<img src="images/Christmas_decorations_2d.JPG" class="padded-bottom"/>
+<img src="images/20231215_200141cs520.jpg" class="padded-bottom"/>
   <BR>
 </article>
 
