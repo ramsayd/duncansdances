@@ -17,7 +17,7 @@ permalink: "index.html"
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <BR>
  <dt><strong>No dance on;</strong></dt> 
-              <dt>Good Friday, 29th March</dt>
+              <dt>28th June & 5th July</dt>
 <BR>
             <BR>
 <dt><strong>£7.50 per person</strong></dt>
