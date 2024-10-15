@@ -22,7 +22,6 @@ Evening Dances
 <br/>Cha Cha Cha		6
 <br/>Jive			2
 <br/>Modern Jive/Le Roc	1
-<br/>Paso Doble	1  
 <br/>Quicksteps		6
 <br/>Rumbas			6	
 <br/>Sambas			2
