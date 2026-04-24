@@ -32,32 +32,7 @@ permalink: "Photos.html"
   <img src="images/WVH_Seating_area440.JPG" class="padded-bottom"/>
 </article>
 
-  <article class="grid_12 center-text padded bottom">
-<h4>Cristmas Decorataions 2023</h4>
-</article>
 
-<article class="grid_6 center-text padded bottom">
-<img src="images/20231215_200111s520.jpg" class="padded-bottom"/>
-<img src="images/20231215_200141cs520.jpg" class="padded-bottom"/>
-  <BR>
-</article>
-
-<article class="grid_6 center-text padded bottom">
-  <img src="images/20231215_200206s520.jpg" class="padded-bottom"/>
-  </article>
-
-<article class="grid_12 center-text padded bottom">
-<h4>Platinum Jubilee Decorataions 2022</h4>
-</article>
-
-<article class="grid_6 center-text padded bottom">
-<img src="images/DSC04174s.JPG" class="padded-bottom"/>
-  <BR>
-</article>
-
-  <article class="grid_6 center-text padded bottom">
- <img src="images/DSC04172s.JPG" class="padded-bottom"/>
-</article>
 
 
 
