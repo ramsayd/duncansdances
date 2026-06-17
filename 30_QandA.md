@@ -13,7 +13,7 @@ permalink: "Q&A.html"
 <h5><strong>Will there be Sequence Dancing?</strong></h5>
 <h6>For our Evening Dances there generally will be 10 Sequence dances spread throught the evening. </h6>
 <h5><strong>Do I need a partner?</strong></h5>
-<h6>Although it is open to anybody, in reality only those with partners or a group attended. </h6>
+<h6>Although it is open to anybody, in practice, only those with partners or a group attended so if you come on your own, you won't get a dance.  </h6>
 <h5><strong>What level of dancers are you expecting or targeting?</strong></h5>
 <h6>Social Dancers of any standard are welcome, as long as you like Ballroom and Latin dancing it does not matter if you are complete beginners or at Gold or beyond. It is a social dance and not for those that want to practice for competitions </h6>
 <h5><strong>Where is the hall?</strong></h5>
