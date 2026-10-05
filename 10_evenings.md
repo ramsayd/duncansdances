@@ -17,6 +17,7 @@ permalink: "evenings.html"
         <BR>
       <dt><strong>No dance on;</strong></dt> 
               <dt>25h December</dt>
+       <dt>1st January</dt>
           <BR>
           <dt><strong>£7.50 per person</strong></dt>
  <dt>Bring your own drinks</dt>
