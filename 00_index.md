@@ -18,6 +18,7 @@ permalink: "index.html"
 <BR>
  <dt><strong>No dance on;</strong></dt> 
               <dt>25th December</dt>
+              <dt>1st January</dt>
 <BR>
             <BR>
 <dt><strong>£7.50 per person</strong></dt>
