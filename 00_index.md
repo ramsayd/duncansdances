@@ -17,7 +17,7 @@ permalink: "index.html"
 <dt><strong>Most Fridays, 8 to 10:30</strong></dt>
 <BR>
  <dt><strong>No dance on;</strong></dt> 
-              <dt>25th December</dt>
+              <dt>18th and 25th December</dt>
               <dt>1st January</dt>
 <BR>
             <BR>
